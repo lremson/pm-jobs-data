@@ -1,7 +1,16 @@
 {
-  "fetched_at": "2026-04-29 18:32",
-  "total": 274,
+  "fetched_at": "2026-04-29 20:03",
+  "total": 276,
   "jobs": [
+    {
+      "title": "[PIP] Product Management, Human Data Platform",
+      "company": "Anthropic",
+      "ats": "Greenhouse",
+      "location": "San Francisco, CA | New York City, NY",
+      "posted_at": "2026-04-29",
+      "apply_url": "https://job-boards.greenhouse.io/anthropic/jobs/5195866008",
+      "dept": "Product Management, Support, & Operations"
+    },
     {
       "title": "Principal Product Manager, AI Enabled Workforce",
       "company": "Gusto",
@@ -9,6 +18,24 @@
       "location": "Denver, CO;San Francisco, CA;New York, NY",
       "posted_at": "2026-04-29",
       "apply_url": "https://job-boards.greenhouse.io/gusto/jobs/7138952",
+      "dept": "Product Management"
+    },
+    {
+      "title": "Product Manager, Figma Weave (New York, United States)",
+      "company": "Figma",
+      "ats": "Greenhouse",
+      "location": "New York, NY",
+      "posted_at": "2026-04-29",
+      "apply_url": "https://boards.greenhouse.io/figma/jobs/5819866004?gh_jid=5819866004",
+      "dept": "Weavy - Figma Weave"
+    },
+    {
+      "title": "Senior Product Manager, DET",
+      "company": "Duolingo",
+      "ats": "Greenhouse",
+      "location": "Pittsburgh, PA",
+      "posted_at": "2026-04-29",
+      "apply_url": "https://careers.duolingo.com/jobs/8530395002?gh_jid=8530395002",
       "dept": "Product Management"
     },
     {
@@ -48,6 +75,15 @@
       "dept": "Domains & Applications"
     },
     {
+      "title": "Product Manager, AI & App Experience",
+      "company": "Chime",
+      "ats": "Greenhouse",
+      "location": "San Francisco, CA, USA",
+      "posted_at": "2026-04-29",
+      "apply_url": "https://boards.greenhouse.io/chime/jobs/8530421002?gh_jid=8530421002",
+      "dept": "Lending Product"
+    },
+    {
       "title": "Product Manager, Data Platform",
       "company": "Chime",
       "ats": "Greenhouse",
@@ -62,7 +98,7 @@
       "ats": "Greenhouse",
       "location": "San Francisco, CA, USA",
       "posted_at": "2026-04-29",
-      "apply_url": "https://boards.greenhouse.io/chime/jobs/8219791002?gh_jid=8219791002",
+      "apply_url": "https://boards.greenhouse.io/chime/jobs/8530438002?gh_jid=8530438002",
       "dept": "Lending Product"
     },
     {
@@ -87,9 +123,9 @@
       "title": "Staff, Product Manager",
       "company": "Twilio",
       "ats": "Greenhouse",
-      "location": "Remote - US",
+      "location": "Remote - Canada",
       "posted_at": "2026-04-29",
-      "apply_url": "https://job-boards.greenhouse.io/twilio/jobs/7821526",
+      "apply_url": "https://job-boards.greenhouse.io/twilio/jobs/7818178",
       "dept": "Product Management"
     },
     {
@@ -199,6 +235,15 @@
       "posted_at": "2026-04-29",
       "apply_url": "https://jobs.ashbyhq.com/harvey/d022efd3-c3cc-459c-9925-ba5dbc8558b9",
       "dept": "Product"
+    },
+    {
+      "title": "Product Manager, Driver Experience",
+      "company": "Lyft",
+      "ats": "Greenhouse",
+      "location": "New York, NY",
+      "posted_at": "2026-04-28",
+      "apply_url": "https://app.careerpuck.com/job-board/lyft/job/8525086002?gh_jid=8525086002",
+      "dept": "Marketplace Product"
     },
     {
       "title": "Product Manager, GTM Systems",
@@ -444,15 +489,6 @@
       "dept": "Product Management"
     },
     {
-      "title": "Group Product Manager, Growth",
-      "company": "Duolingo",
-      "ats": "Greenhouse",
-      "location": "Pittsburgh, PA",
-      "posted_at": "2026-04-27",
-      "apply_url": "https://careers.duolingo.com/jobs/8425925002?gh_jid=8425925002",
-      "dept": "Product Management"
-    },
-    {
       "title": "Senior Product Manager, In-App Purchases",
       "company": "Duolingo",
       "ats": "Greenhouse",
@@ -492,9 +528,9 @@
       "title": "Senior Product Manager, Score",
       "company": "Duolingo",
       "ats": "Greenhouse",
-      "location": "Pittsburgh, PA",
+      "location": "New York, NY",
       "posted_at": "2026-04-27",
-      "apply_url": "https://careers.duolingo.com/jobs/8230258002?gh_jid=8230258002",
+      "apply_url": "https://careers.duolingo.com/jobs/8393330002?gh_jid=8393330002",
       "dept": "Product Management"
     },
     {
@@ -505,15 +541,6 @@
       "posted_at": "2026-04-27",
       "apply_url": "https://careers.duolingo.com/jobs/8474673002?gh_jid=8474673002",
       "dept": "Product Management"
-    },
-    {
-      "title": "Product Manager, Driver Experience",
-      "company": "Lyft",
-      "ats": "Greenhouse",
-      "location": "Toronto, Canada",
-      "posted_at": "2026-04-27",
-      "apply_url": "https://app.careerpuck.com/job-board/lyft/job/8514395002?gh_jid=8514395002",
-      "dept": "Marketplace Product"
     },
     {
       "title": "AI Product Manager, Business Technology",
@@ -771,9 +798,9 @@
       "title": "Product Manager, Local Payment Methods EMEA",
       "company": "Stripe",
       "ats": "Greenhouse",
-      "location": "Dublin",
+      "location": "London",
       "posted_at": "2026-04-24",
-      "apply_url": "https://stripe.com/jobs/search?gh_jid=7486955",
+      "apply_url": "https://stripe.com/jobs/search?gh_jid=7651697",
       "dept": "8557 Payments Admin"
     },
     {
@@ -960,9 +987,9 @@
       "title": "Procure to Pay (PTP) Product Manager",
       "company": "Anduril",
       "ats": "Greenhouse",
-      "location": "Seattle, Washington, United States",
+      "location": "Costa Mesa, California, United States",
       "posted_at": "2026-04-24",
-      "apply_url": "https://boards.greenhouse.io/andurilindustries/jobs/5085863007?gh_jid=5085863007",
+      "apply_url": "https://boards.greenhouse.io/andurilindustries/jobs/5118698007?gh_jid=5118698007",
       "dept": "Corporate Technology : ArsenalOS"
     },
     {
@@ -987,9 +1014,9 @@
       "title": "Senior Product Manager, Order to Cash ",
       "company": "Anduril",
       "ats": "Greenhouse",
-      "location": "Costa Mesa, California, United States",
+      "location": "Seattle, Washington, United States",
       "posted_at": "2026-04-24",
-      "apply_url": "https://boards.greenhouse.io/andurilindustries/jobs/5100281007?gh_jid=5100281007",
+      "apply_url": "https://boards.greenhouse.io/andurilindustries/jobs/5110989007?gh_jid=5110989007",
       "dept": "Corporate Technology : CorporateOS : Finance Solutions"
     },
     {
@@ -1140,9 +1167,9 @@
       "title": "Sr. Support Tools Product Manager",
       "company": "Samsara",
       "ats": "Greenhouse",
-      "location": "Remote - Toronto",
+      "location": "Remote - US",
       "posted_at": "2026-04-23",
-      "apply_url": "https://www.samsara.com/company/careers/roles/7583834?gh_jid=7583834",
+      "apply_url": "https://www.samsara.com/company/careers/roles/7621277?gh_jid=7621277",
       "dept": "Support"
     },
     {
@@ -1171,15 +1198,6 @@
       "posted_at": "2026-04-23",
       "apply_url": "https://boards.greenhouse.io/chime/jobs/8499435002?gh_jid=8499435002",
       "dept": "Lending Product"
-    },
-    {
-      "title": "Product Manager, AI & App Experience",
-      "company": "Chime",
-      "ats": "Greenhouse",
-      "location": "San Francisco, CA, USA",
-      "posted_at": "2026-04-23",
-      "apply_url": "https://boards.greenhouse.io/chime/jobs/8478204002?gh_jid=8478204002",
-      "dept": "AI & App Experience Product"
     },
     {
       "title": "Product Manager",
@@ -1482,9 +1500,9 @@
       "title": "Product Manager, Matching & Fulfillment",
       "company": "Lyft",
       "ats": "Greenhouse",
-      "location": "Seattle, WA",
+      "location": "New York, NY",
       "posted_at": "2026-04-17",
-      "apply_url": "https://app.careerpuck.com/job-board/lyft/job/8430532002?gh_jid=8430532002",
+      "apply_url": "https://app.careerpuck.com/job-board/lyft/job/8430067002?gh_jid=8430067002",
       "dept": "Marketplace Product"
     },
     {
@@ -1500,9 +1518,9 @@
       "title": "Group Product Manager II, Pricing",
       "company": "Lyft",
       "ats": "Greenhouse",
-      "location": "San Francisco, CA",
+      "location": "New York, NY",
       "posted_at": "2026-04-16",
-      "apply_url": "https://app.careerpuck.com/job-board/lyft/job/8490440002?gh_jid=8490440002",
+      "apply_url": "https://app.careerpuck.com/job-board/lyft/job/8492202002?gh_jid=8492202002",
       "dept": "Marketplace Product"
     },
     {
@@ -1524,13 +1542,13 @@
       "dept": "Product"
     },
     {
-      "title": "Product Manager, Figma Weave (New York, United States)",
-      "company": "Figma",
+      "title": "Lead Product Owner, Business Systems - Sales ",
+      "company": "DoorDash",
       "ats": "Greenhouse",
-      "location": "New York, NY",
+      "location": "Chicago, IL; Los Angeles, CA; New York, NY; San Francisco, CA; Seattle, WA",
       "posted_at": "2026-04-15",
-      "apply_url": "https://boards.greenhouse.io/figma/jobs/5819866004?gh_jid=5819866004",
-      "dept": "Weavy - Figma Weave"
+      "apply_url": "https://job-boards.greenhouse.io/doordashusa/jobs/7558890",
+      "dept": "545 GTM Technology"
     },
     {
       "title": "Product Manager (Multiple Levels)",
