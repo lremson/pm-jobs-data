@@ -1,6 +1,6 @@
 {
-  "fetched_at": "2026-05-03T04:00:12Z",
-  "total": 257,
+  "fetched_at": "2026-05-03T08:04:46Z",
+  "total": 256,
   "jobs": [
     {
       "title": "Senior Product Manager, Web Experiences",
@@ -3474,24 +3474,6 @@
       "team": "Navan Edge",
       "type": "0\u21921",
       "yoe": 5,
-      "technical": true
-    },
-    {
-      "title": "Staff Product Manager - AVA AI",
-      "company": "Navan",
-      "ats": "Greenhouse",
-      "location": "Tel-Aviv, Israel",
-      "posted_at": "2026-04-09",
-      "apply_url": "https://navan.com/careers/openings?gh_jid=7724851",
-      "dept": "",
-      "industry": "Travel Tech",
-      "stage": "Late",
-      "size": "1000-5000",
-      "hq": "Palo Alto, CA",
-      "summary": "Staff Product Manager role at Navan leading the AI for travel support product (AVA AI) based in Tel Aviv. Responsible for developing product vision, strategy, and roadmap while collaborating cross-functionally with engineering, design, and go-to-market teams to deliver innovative AI solutions.",
-      "team": "AI for Travel Support",
-      "type": "Scaling",
-      "yoe": 7,
       "technical": true
     },
     {
