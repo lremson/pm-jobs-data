@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-05-06T21:14:40Z",
+  "fetched_at": "2026-05-06T21:22:07Z",
   "total": 220,
   "jobs": [
     {
@@ -17,7 +17,7 @@
       "size": "1000-5000",
       "hq": "San Francisco, CA",
       "domain": "gusto.com",
-      "summary": "Lead all product strategy and execution for Gusto's payroll platform, owning the roadmap end-to-end and driving product decisions that impact 500,000+ small businesses. Partner with engineering, design, and go-to-market teams to build and scale payroll features that serve SMB owners and their employees.",
+      "summary": "Lead the payroll product strategy and roadmap for Gusto's 500k+ small business customers, owning end-to-end product development from vision through execution. Drive feature prioritization, cross-functional alignment, and shipping decisions that solve core payroll problems and expand Gusto's payroll capabilities.",
       "type": "Core",
       "archetype": "Enterprise",
       "technical": false,
