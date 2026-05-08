@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-05-08T03:19:47Z",
+  "fetched_at": "2026-05-08T03:39:10Z",
   "total": 224,
   "jobs": [
     {
@@ -34,7 +34,10 @@
       "salary_max": 268000,
       "salary_currency": "USD",
       "salary_string": "$178k\u2013$268k",
-      "first_seen_at": "2026-05-08T03:03:04Z"
+      "first_seen_at": "2026-05-08T03:03:04Z",
+      "ai_maturity": "adopter",
+      "talent_density_rank": null,
+      "talent_density_score": null
     },
     {
       "title": "Product Manager, AI Growth",
@@ -68,7 +71,10 @@
       "salary_max": 303000,
       "salary_currency": "USD",
       "salary_string": "$207k\u2013$303k",
-      "first_seen_at": "2026-05-06T00:00:00Z"
+      "first_seen_at": "2026-05-06T00:00:00Z",
+      "ai_maturity": "adopter",
+      "talent_density_rank": null,
+      "talent_density_score": null
     },
     {
       "title": "Senior Group Product Manager, Advertiser Optimization (Ads Marketplace)",
@@ -102,7 +108,10 @@
       "salary_max": 325500,
       "salary_currency": "USD",
       "salary_string": "$232.5k\u2013$325.5k",
-      "first_seen_at": "2026-05-08T03:03:36Z"
+      "first_seen_at": "2026-05-08T03:03:36Z",
+      "ai_maturity": "traditional",
+      "talent_density_rank": null,
+      "talent_density_score": null
     },
     {
       "title": "Business Systems Product Owner",
@@ -136,7 +145,10 @@
       "salary_max": 205000,
       "salary_currency": "USD",
       "salary_string": "$95k\u2013$205k",
-      "first_seen_at": "2026-05-06T00:00:00Z"
+      "first_seen_at": "2026-05-06T00:00:00Z",
+      "ai_maturity": "traditional",
+      "talent_density_rank": null,
+      "talent_density_score": null
     },
     {
       "title": "Product Manager (Multiple Levels)",
@@ -170,7 +182,10 @@
       "salary_max": 285000,
       "salary_currency": "USD",
       "salary_string": "$130k\u2013$285k",
-      "first_seen_at": "2026-05-06T00:00:00Z"
+      "first_seen_at": "2026-05-06T00:00:00Z",
+      "ai_maturity": "traditional",
+      "talent_density_rank": null,
+      "talent_density_score": null
     },
     {
       "title": "Senior Product Manager, Trust & Safety, Integrity and Fraud",
@@ -204,7 +219,10 @@
       "salary_max": 235000,
       "salary_currency": "USD",
       "salary_string": "$159k\u2013$235k",
-      "first_seen_at": "2026-05-06T00:00:00Z"
+      "first_seen_at": "2026-05-06T00:00:00Z",
+      "ai_maturity": "traditional",
+      "talent_density_rank": null,
+      "talent_density_score": null
     },
     {
       "title": "Sr. Support Tools Product Manager",
@@ -238,7 +256,10 @@
       "salary_max": 158400,
       "salary_currency": "CAD",
       "salary_string": "$122k\u2013$158k CAD",
-      "first_seen_at": "2026-05-04T00:00:00Z"
+      "first_seen_at": "2026-05-04T00:00:00Z",
+      "ai_maturity": "adopter",
+      "talent_density_rank": null,
+      "talent_density_score": null
     },
     {
       "title": "Principal Presales Engineer, Product Specialist - CDP, Martech, AI\u00a0",
@@ -272,7 +293,10 @@
       "salary_max": null,
       "salary_currency": null,
       "salary_string": null,
-      "first_seen_at": "2026-05-08T03:04:24Z"
+      "first_seen_at": "2026-05-08T03:04:24Z",
+      "ai_maturity": "adopter",
+      "talent_density_rank": null,
+      "talent_density_score": null
     },
     {
       "title": "Staff Product Manager",
@@ -306,7 +330,10 @@
       "salary_max": null,
       "salary_currency": null,
       "salary_string": null,
-      "first_seen_at": "2026-05-06T00:00:00Z"
+      "first_seen_at": "2026-05-06T00:00:00Z",
+      "ai_maturity": "adopter",
+      "talent_density_rank": null,
+      "talent_density_score": null
     },
     {
       "title": "Staff, Product Manager",
@@ -340,7 +367,10 @@
       "salary_max": 182300,
       "salary_currency": "CAD",
       "salary_string": "$145.8k\u2013$182.3k CAD",
-      "first_seen_at": "2026-05-06T00:00:00Z"
+      "first_seen_at": "2026-05-06T00:00:00Z",
+      "ai_maturity": "adopter",
+      "talent_density_rank": null,
+      "talent_density_score": null
     },
     {
       "title": "Staff Product Manager - Core Commerce Platform",
@@ -374,7 +404,10 @@
       "salary_max": 182300,
       "salary_currency": "CAD",
       "salary_string": "CA$145k\u2013CA$182k",
-      "first_seen_at": "2026-05-06T00:00:00Z"
+      "first_seen_at": "2026-05-06T00:00:00Z",
+      "ai_maturity": "adopter",
+      "talent_density_rank": null,
+      "talent_density_score": null
     },
     {
       "title": "Senior Product Manager, Security AI",
@@ -408,7 +441,10 @@
       "salary_max": 195000,
       "salary_currency": "USD",
       "salary_string": "$166k\u2013$195k",
-      "first_seen_at": "2026-05-01T00:00:00Z"
+      "first_seen_at": "2026-05-01T00:00:00Z",
+      "ai_maturity": "traditional",
+      "talent_density_rank": null,
+      "talent_density_score": null
     },
     {
       "title": "Product Manager, Finance",
@@ -442,7 +478,10 @@
       "salary_max": 204000,
       "salary_currency": "USD",
       "salary_string": "$139k\u2013$204k",
-      "first_seen_at": "2026-05-08T03:04:48Z"
+      "first_seen_at": "2026-05-08T03:04:48Z",
+      "ai_maturity": null,
+      "talent_density_rank": null,
+      "talent_density_score": null
     },
     {
       "title": "Chief of Staff, VP of Product",
@@ -476,7 +515,10 @@
       "salary_max": 312000,
       "salary_currency": "USD",
       "salary_string": "$211k\u2013$312k",
-      "first_seen_at": "2026-05-08T03:04:55Z"
+      "first_seen_at": "2026-05-08T03:04:55Z",
+      "ai_maturity": "native",
+      "talent_density_rank": 17,
+      "talent_density_score": 0.724
     },
     {
       "title": "Lead Product Manager, Agentic Ads Platform",
@@ -504,7 +546,10 @@
       "salary_max": null,
       "salary_currency": null,
       "salary_string": null,
-      "first_seen_at": "2026-05-01T00:00:00Z"
+      "first_seen_at": "2026-05-01T00:00:00Z",
+      "ai_maturity": "adopter",
+      "talent_density_rank": null,
+      "talent_density_score": null
     },
     {
       "title": "Lead Product Manager, Agentic Personalization",
@@ -532,7 +577,10 @@
       "salary_max": 320000,
       "salary_currency": "USD",
       "salary_string": "$240k\u2013$320k",
-      "first_seen_at": "2026-05-01T00:00:00Z"
+      "first_seen_at": "2026-05-01T00:00:00Z",
+      "ai_maturity": "adopter",
+      "talent_density_rank": null,
+      "talent_density_score": null
     },
     {
       "title": "Senior Software Product Manager",
@@ -566,7 +614,10 @@
       "salary_max": 220000,
       "salary_currency": "USD",
       "salary_string": "$166k\u2013$220k",
-      "first_seen_at": "2026-05-06T00:00:00Z"
+      "first_seen_at": "2026-05-06T00:00:00Z",
+      "ai_maturity": "native",
+      "talent_density_rank": null,
+      "talent_density_score": null
     },
     {
       "title": "Senior Technical Product Manager, Autonomy/Simulation",
@@ -600,7 +651,10 @@
       "salary_max": 220000,
       "salary_currency": "USD",
       "salary_string": "$166k\u2013$220k",
-      "first_seen_at": "2026-05-06T00:00:00Z"
+      "first_seen_at": "2026-05-06T00:00:00Z",
+      "ai_maturity": "native",
+      "talent_density_rank": null,
+      "talent_density_score": null
     },
     {
       "title": "Software Product Manager, Air Defense",
@@ -634,7 +688,10 @@
       "salary_max": 194000,
       "salary_currency": "USD",
       "salary_string": "$146k\u2013$194k",
-      "first_seen_at": "2026-05-06T00:00:00Z"
+      "first_seen_at": "2026-05-06T00:00:00Z",
+      "ai_maturity": "native",
+      "talent_density_rank": null,
+      "talent_density_score": null
     },
     {
       "title": "Head of Product, Payroll",
@@ -668,7 +725,10 @@
       "salary_max": 248000,
       "salary_currency": "USD",
       "salary_string": "$206k\u2013$248k",
-      "first_seen_at": "2026-05-06T00:00:00Z"
+      "first_seen_at": "2026-05-06T00:00:00Z",
+      "ai_maturity": "adopter",
+      "talent_density_rank": null,
+      "talent_density_score": null
     },
     {
       "title": "Principal Product Manager, Agentic Benefits Operations",
@@ -702,7 +762,10 @@
       "salary_max": 224000,
       "salary_currency": "USD",
       "salary_string": "$179k\u2013$224k",
-      "first_seen_at": "2026-05-06T00:00:00Z"
+      "first_seen_at": "2026-05-06T00:00:00Z",
+      "ai_maturity": "adopter",
+      "talent_density_rank": null,
+      "talent_density_score": null
     },
     {
       "title": "Principal Product Manager, AI Enabled Workforce",
@@ -736,7 +799,10 @@
       "salary_max": 238000,
       "salary_currency": "USD",
       "salary_string": "$204k\u2013$238k",
-      "first_seen_at": "2026-05-06T00:00:00Z"
+      "first_seen_at": "2026-05-06T00:00:00Z",
+      "ai_maturity": "adopter",
+      "talent_density_rank": null,
+      "talent_density_score": null
     },
     {
       "title": "Principal Product Manager, Customer Onboarding ",
@@ -770,7 +836,10 @@
       "salary_max": 224000,
       "salary_currency": "USD",
       "salary_string": "$179k\u2013$224k",
-      "first_seen_at": "2026-05-06T00:00:00Z"
+      "first_seen_at": "2026-05-06T00:00:00Z",
+      "ai_maturity": "adopter",
+      "talent_density_rank": null,
+      "talent_density_score": null
     },
     {
       "title": "Principal Product Manager, Tax Credits",
@@ -804,7 +873,10 @@
       "salary_max": 224000,
       "salary_currency": "USD",
       "salary_string": "$179k\u2013$224k",
-      "first_seen_at": "2026-05-06T00:00:00Z"
+      "first_seen_at": "2026-05-06T00:00:00Z",
+      "ai_maturity": "adopter",
+      "talent_density_rank": null,
+      "talent_density_score": null
     },
     {
       "title": "Principal Product Manager, Tax Platform",
@@ -838,7 +910,10 @@
       "salary_max": 224000,
       "salary_currency": "USD",
       "salary_string": "$180k\u2013$224k",
-      "first_seen_at": "2026-05-06T00:00:00Z"
+      "first_seen_at": "2026-05-06T00:00:00Z",
+      "ai_maturity": "adopter",
+      "talent_density_rank": null,
+      "talent_density_score": null
     },
     {
       "title": "Senior Product Manager, Contractor Products",
@@ -872,7 +947,10 @@
       "salary_max": 230000,
       "salary_currency": "USD",
       "salary_string": "$152k\u2013$230k",
-      "first_seen_at": "2026-05-06T00:00:00Z"
+      "first_seen_at": "2026-05-06T00:00:00Z",
+      "ai_maturity": "adopter",
+      "talent_density_rank": null,
+      "talent_density_score": null
     },
     {
       "title": "Senior Product Manager, Gusto Pro Workflows",
@@ -906,7 +984,10 @@
       "salary_max": 230000,
       "salary_currency": "USD",
       "salary_string": "$184k\u2013$230k",
-      "first_seen_at": "2026-05-06T00:00:00Z"
+      "first_seen_at": "2026-05-06T00:00:00Z",
+      "ai_maturity": "adopter",
+      "talent_density_rank": null,
+      "talent_density_score": null
     },
     {
       "title": "Senior Product Manager, Symmetry New Tax Products",
@@ -940,7 +1021,10 @@
       "salary_max": 179000,
       "salary_currency": "USD",
       "salary_string": "$143k\u2013$179k",
-      "first_seen_at": "2026-05-06T00:00:00Z"
+      "first_seen_at": "2026-05-06T00:00:00Z",
+      "ai_maturity": "adopter",
+      "talent_density_rank": null,
+      "talent_density_score": null
     },
     {
       "title": "Senior Product Manager, Web Experiences",
@@ -974,7 +1058,10 @@
       "salary_max": 230000,
       "salary_currency": "USD",
       "salary_string": "$184k\u2013$230k",
-      "first_seen_at": "2026-05-06T00:00:00Z"
+      "first_seen_at": "2026-05-06T00:00:00Z",
+      "ai_maturity": "adopter",
+      "talent_density_rank": null,
+      "talent_density_score": null
     },
     {
       "title": "Senior Director of Product, Ads Platform",
@@ -1008,7 +1095,10 @@
       "salary_max": 418800,
       "salary_currency": "USD",
       "salary_string": "$299k\u2013$419k",
-      "first_seen_at": "2026-05-06T00:00:00Z"
+      "first_seen_at": "2026-05-06T00:00:00Z",
+      "ai_maturity": "traditional",
+      "talent_density_rank": null,
+      "talent_density_score": null
     },
     {
       "title": "Staff Product Manager, Ads API",
@@ -1042,7 +1132,10 @@
       "salary_max": 303900,
       "salary_currency": "USD",
       "salary_string": "$217k\u2013$303k",
-      "first_seen_at": "2026-05-06T00:00:00Z"
+      "first_seen_at": "2026-05-06T00:00:00Z",
+      "ai_maturity": "traditional",
+      "talent_density_rank": null,
+      "talent_density_score": null
     },
     {
       "title": "Staff Product Manager, Finance Applications",
@@ -1076,7 +1169,10 @@
       "salary_max": 252300,
       "salary_currency": "USD",
       "salary_string": "$180k\u2013$252k",
-      "first_seen_at": "2026-05-06T00:00:00Z"
+      "first_seen_at": "2026-05-06T00:00:00Z",
+      "ai_maturity": "traditional",
+      "talent_density_rank": null,
+      "talent_density_score": null
     },
     {
       "title": "Group Product Manager, Mobile ",
@@ -1110,7 +1206,10 @@
       "salary_max": 46667,
       "salary_currency": "PLN",
       "salary_string": "36,667\u201346,667 PLN",
-      "first_seen_at": "2026-05-06T00:00:00Z"
+      "first_seen_at": "2026-05-06T00:00:00Z",
+      "ai_maturity": "adopter",
+      "talent_density_rank": null,
+      "talent_density_score": null
     },
     {
       "title": "Principal Product Manager, AI Growth",
@@ -1144,7 +1243,10 @@
       "salary_max": 240000,
       "salary_currency": "USD",
       "salary_string": "$211k\u2013$240k",
-      "first_seen_at": "2026-05-06T00:00:00Z"
+      "first_seen_at": "2026-05-06T00:00:00Z",
+      "ai_maturity": "adopter",
+      "talent_density_rank": null,
+      "talent_density_score": null
     },
     {
       "title": "Senior Product Manager, Project & Task Experience",
@@ -1178,7 +1280,10 @@
       "salary_max": 230000,
       "salary_currency": "USD",
       "salary_string": "$202k\u2013$230k",
-      "first_seen_at": "2026-05-06T00:00:00Z"
+      "first_seen_at": "2026-05-06T00:00:00Z",
+      "ai_maturity": "adopter",
+      "talent_density_rank": null,
+      "talent_density_score": null
     },
     {
       "title": "Director, Product Management - Access Management",
@@ -1206,7 +1311,10 @@
       "salary_max": 355000,
       "salary_currency": "USD",
       "salary_string": "$258k\u2013$355k",
-      "first_seen_at": "2026-05-06T00:00:00Z"
+      "first_seen_at": "2026-05-06T00:00:00Z",
+      "ai_maturity": "traditional",
+      "talent_density_rank": null,
+      "talent_density_score": null
     },
     {
       "title": "Director, Product Management - Auth0 AI Products",
@@ -1240,7 +1348,10 @@
       "salary_max": 355000,
       "salary_currency": "USD",
       "salary_string": "$251k\u2013$355k",
-      "first_seen_at": "2026-05-06T00:00:00Z"
+      "first_seen_at": "2026-05-06T00:00:00Z",
+      "ai_maturity": "traditional",
+      "talent_density_rank": null,
+      "talent_density_score": null
     },
     {
       "title": "Director, Product Management Cloud Infrastructure",
@@ -1274,7 +1385,10 @@
       "salary_max": 355000,
       "salary_currency": "USD",
       "salary_string": "$258k\u2013$355k",
-      "first_seen_at": "2026-05-06T00:00:00Z"
+      "first_seen_at": "2026-05-06T00:00:00Z",
+      "ai_maturity": "traditional",
+      "talent_density_rank": null,
+      "talent_density_score": null
     },
     {
       "title": "Director, Product Management (IAM) - Auth0",
@@ -1308,7 +1422,10 @@
       "salary_max": 355000,
       "salary_currency": "USD",
       "salary_string": "$258k\u2013$355k",
-      "first_seen_at": "2026-05-06T00:00:00Z"
+      "first_seen_at": "2026-05-06T00:00:00Z",
+      "ai_maturity": "traditional",
+      "talent_density_rank": null,
+      "talent_density_score": null
     },
     {
       "title": "Principal Product Manager, AI & Automation",
@@ -1342,7 +1459,10 @@
       "salary_max": 263000,
       "salary_currency": "USD",
       "salary_string": "$210k\u2013$263k",
-      "first_seen_at": "2026-05-06T00:00:00Z"
+      "first_seen_at": "2026-05-06T00:00:00Z",
+      "ai_maturity": "traditional",
+      "talent_density_rank": null,
+      "talent_density_score": null
     },
     {
       "title": "Principal Product Manager, LogIn",
@@ -1376,7 +1496,10 @@
       "salary_max": 302500,
       "salary_currency": "USD",
       "salary_string": "$220k\u2013$302.5k",
-      "first_seen_at": "2026-05-06T00:00:00Z"
+      "first_seen_at": "2026-05-06T00:00:00Z",
+      "ai_maturity": "traditional",
+      "talent_density_rank": null,
+      "talent_density_score": null
     },
     {
       "title": "Product Management Director, Okta Identity Threat Detection and Response Products",
@@ -1409,7 +1532,10 @@
       "salary_max": 355000,
       "salary_currency": "USD",
       "salary_string": "$258k\u2013$355k",
-      "first_seen_at": "2026-05-08T03:04:17Z"
+      "first_seen_at": "2026-05-08T03:04:17Z",
+      "ai_maturity": "traditional",
+      "talent_density_rank": null,
+      "talent_density_score": null
     },
     {
       "title": "Product Manager, Digital Content Supply Chain",
@@ -1443,7 +1569,10 @@
       "salary_max": 186000,
       "salary_currency": "CAD",
       "salary_string": "$124k\u2013$186k CAD",
-      "first_seen_at": "2026-05-06T00:00:00Z"
+      "first_seen_at": "2026-05-06T00:00:00Z",
+      "ai_maturity": "traditional",
+      "talent_density_rank": null,
+      "talent_density_score": null
     },
     {
       "title": "Product Manager - Identity Threat Protection",
@@ -1477,7 +1606,10 @@
       "salary_max": 219000,
       "salary_currency": "USD",
       "salary_string": "$159k\u2013$219k",
-      "first_seen_at": "2026-05-06T00:00:00Z"
+      "first_seen_at": "2026-05-06T00:00:00Z",
+      "ai_maturity": "traditional",
+      "talent_density_rank": null,
+      "talent_density_score": null
     },
     {
       "title": "Senior Product Manager, Privileged Access Management",
@@ -1511,7 +1643,10 @@
       "salary_max": 232000,
       "salary_currency": "USD",
       "salary_string": "$169k\u2013$232k",
-      "first_seen_at": "2026-05-06T00:00:00Z"
+      "first_seen_at": "2026-05-06T00:00:00Z",
+      "ai_maturity": "traditional",
+      "talent_density_rank": null,
+      "talent_density_score": null
     },
     {
       "title": "Staff Product Manager, AI & Automation Platforms",
@@ -1545,7 +1680,10 @@
       "salary_max": null,
       "salary_currency": null,
       "salary_string": null,
-      "first_seen_at": "2026-05-06T00:00:00Z"
+      "first_seen_at": "2026-05-06T00:00:00Z",
+      "ai_maturity": "traditional",
+      "talent_density_rank": null,
+      "talent_density_score": null
     },
     {
       "title": "Staff Product Manager, DocSend",
@@ -1579,7 +1717,10 @@
       "salary_max": 265700,
       "salary_currency": "CAD",
       "salary_string": "$196k\u2013$266k CAD",
-      "first_seen_at": "2026-05-06T00:00:00Z"
+      "first_seen_at": "2026-05-06T00:00:00Z",
+      "ai_maturity": "adopter",
+      "talent_density_rank": null,
+      "talent_density_score": null
     },
     {
       "title": "Senior Staff Product Manager, Identity Risk Solutions",
@@ -1613,7 +1754,10 @@
       "salary_max": 290000,
       "salary_currency": "USD",
       "salary_string": "$208k\u2013$290k",
-      "first_seen_at": "2026-05-06T00:00:00Z"
+      "first_seen_at": "2026-05-06T00:00:00Z",
+      "ai_maturity": "traditional",
+      "talent_density_rank": null,
+      "talent_density_score": null
     },
     {
       "title": "Procure to Pay (PTP) Product Manager",
@@ -1647,7 +1791,10 @@
       "salary_max": null,
       "salary_currency": "USD",
       "salary_string": "$129k",
-      "first_seen_at": "2026-05-08T03:05:13Z"
+      "first_seen_at": "2026-05-08T03:05:13Z",
+      "ai_maturity": "native",
+      "talent_density_rank": null,
+      "talent_density_score": null
     },
     {
       "title": "Senior Product Manager, Manufacturing and Industrial Design Systems",
@@ -1681,7 +1828,10 @@
       "salary_max": 220000,
       "salary_currency": "USD",
       "salary_string": "$166k\u2013$220k",
-      "first_seen_at": "2026-05-06T00:00:00Z"
+      "first_seen_at": "2026-05-06T00:00:00Z",
+      "ai_maturity": "native",
+      "talent_density_rank": null,
+      "talent_density_score": null
     },
     {
       "title": "Senior Software Product Manager, Warehouse Management System",
@@ -1714,7 +1864,10 @@
       "salary_max": 220000,
       "salary_currency": "USD",
       "salary_string": "$166k\u2013$220k",
-      "first_seen_at": "2026-05-06T00:00:00Z"
+      "first_seen_at": "2026-05-06T00:00:00Z",
+      "ai_maturity": "native",
+      "talent_density_rank": null,
+      "talent_density_score": null
     },
     {
       "title": "Senior Software Product Manager, Web Ecosystem",
@@ -1748,7 +1901,10 @@
       "salary_max": 220000,
       "salary_currency": "USD",
       "salary_string": "$166k\u2013$220k",
-      "first_seen_at": "2026-05-06T00:00:00Z"
+      "first_seen_at": "2026-05-06T00:00:00Z",
+      "ai_maturity": "native",
+      "talent_density_rank": null,
+      "talent_density_score": null
     },
     {
       "title": "Staff Product Manager",
@@ -1776,7 +1932,10 @@
       "salary_max": 253000,
       "salary_currency": "USD",
       "salary_string": "$191k\u2013$253k",
-      "first_seen_at": "2026-05-06T00:00:00Z"
+      "first_seen_at": "2026-05-06T00:00:00Z",
+      "ai_maturity": "native",
+      "talent_density_rank": null,
+      "talent_density_score": null
     },
     {
       "title": "Senior Product Manager, Learning",
@@ -1810,7 +1969,10 @@
       "salary_max": 240400,
       "salary_currency": "USD",
       "salary_string": "$177.7k\u2013$240.4k",
-      "first_seen_at": "2026-05-05T00:00:00Z"
+      "first_seen_at": "2026-05-05T00:00:00Z",
+      "ai_maturity": "adopter",
+      "talent_density_rank": null,
+      "talent_density_score": null
     },
     {
       "title": "Senior Product Manager, Monetization",
@@ -1844,7 +2006,10 @@
       "salary_max": 247300,
       "salary_currency": "USD",
       "salary_string": "$183k\u2013$247k",
-      "first_seen_at": "2026-05-05T00:00:00Z"
+      "first_seen_at": "2026-05-05T00:00:00Z",
+      "ai_maturity": "adopter",
+      "talent_density_rank": null,
+      "talent_density_score": null
     },
     {
       "title": "Group Product Manager, Core Rider",
@@ -1878,7 +2043,10 @@
       "salary_max": 220000,
       "salary_currency": "USD",
       "salary_string": "$176k\u2013$220k",
-      "first_seen_at": "2026-05-05T00:00:00Z"
+      "first_seen_at": "2026-05-05T00:00:00Z",
+      "ai_maturity": "traditional",
+      "talent_density_rank": null,
+      "talent_density_score": null
     },
     {
       "title": "Group Product Manager II, Pricing",
@@ -1912,7 +2080,10 @@
       "salary_max": 260000,
       "salary_currency": "USD",
       "salary_string": "$208k\u2013$260k",
-      "first_seen_at": "2026-05-08T03:03:51Z"
+      "first_seen_at": "2026-05-08T03:03:51Z",
+      "ai_maturity": "traditional",
+      "talent_density_rank": null,
+      "talent_density_score": null
     },
     {
       "title": "Group Product Manager, Verticals",
@@ -1946,7 +2117,10 @@
       "salary_max": 220000,
       "salary_currency": "USD",
       "salary_string": "$176k\u2013$220k",
-      "first_seen_at": "2026-05-05T00:00:00Z"
+      "first_seen_at": "2026-05-05T00:00:00Z",
+      "ai_maturity": "traditional",
+      "talent_density_rank": null,
+      "talent_density_score": null
     },
     {
       "title": "Product Manager, Driver Experience",
@@ -1980,7 +2154,10 @@
       "salary_max": 160000,
       "salary_currency": "USD",
       "salary_string": "$128k\u2013$160k",
-      "first_seen_at": "2026-05-05T00:00:00Z"
+      "first_seen_at": "2026-05-05T00:00:00Z",
+      "ai_maturity": "traditional",
+      "talent_density_rank": null,
+      "talent_density_score": null
     },
     {
       "title": "Product Manager, Matching & Fulfillment",
@@ -2014,7 +2191,10 @@
       "salary_max": 185000,
       "salary_currency": "USD",
       "salary_string": "$148k\u2013$185k",
-      "first_seen_at": "2026-05-08T03:03:55Z"
+      "first_seen_at": "2026-05-08T03:03:55Z",
+      "ai_maturity": "traditional",
+      "talent_density_rank": null,
+      "talent_density_score": null
     },
     {
       "title": "Product Manager, Premium Modes",
@@ -2048,7 +2228,10 @@
       "salary_max": 160000,
       "salary_currency": "USD",
       "salary_string": "$128k\u2013$160k",
-      "first_seen_at": "2026-05-05T00:00:00Z"
+      "first_seen_at": "2026-05-05T00:00:00Z",
+      "ai_maturity": "traditional",
+      "talent_density_rank": null,
+      "talent_density_score": null
     },
     {
       "title": "Senior Product Manager - Autonomous Vehicles (AV) ",
@@ -2082,7 +2265,10 @@
       "salary_max": 185000,
       "salary_currency": "USD",
       "salary_string": "$148k\u2013$185k",
-      "first_seen_at": "2026-05-05T00:00:00Z"
+      "first_seen_at": "2026-05-05T00:00:00Z",
+      "ai_maturity": "traditional",
+      "talent_density_rank": null,
+      "talent_density_score": null
     },
     {
       "title": "Staff Product Manager, Lyft AI Platform & Marketplace Applications",
@@ -2116,7 +2302,10 @@
       "salary_max": 220000,
       "salary_currency": "USD",
       "salary_string": "$176k\u2013$220k",
-      "first_seen_at": "2026-05-05T00:00:00Z"
+      "first_seen_at": "2026-05-05T00:00:00Z",
+      "ai_maturity": "traditional",
+      "talent_density_rank": null,
+      "talent_density_score": null
     },
     {
       "title": "Staff Product Manager, AI",
@@ -2150,7 +2339,10 @@
       "salary_max": 296900,
       "salary_currency": "USD",
       "salary_string": "$133k\u2013$296k",
-      "first_seen_at": "2026-05-05T00:00:00Z"
+      "first_seen_at": "2026-05-05T00:00:00Z",
+      "ai_maturity": "adopter",
+      "talent_density_rank": null,
+      "talent_density_score": null
     },
     {
       "title": "Product Manager - Mobile & App Platform",
@@ -2184,7 +2376,10 @@
       "salary_max": 187000,
       "salary_currency": "CAD",
       "salary_string": "137k\u2013187k CAD",
-      "first_seen_at": "2026-05-05T00:00:00Z"
+      "first_seen_at": "2026-05-05T00:00:00Z",
+      "ai_maturity": "adopter",
+      "talent_density_rank": null,
+      "talent_density_score": null
     },
     {
       "title": "Enterprise Product Lead, Truework",
@@ -2218,7 +2413,10 @@
       "salary_max": 290000,
       "salary_currency": "USD",
       "salary_string": "$247k\u2013$290k",
-      "first_seen_at": "2026-05-05T00:00:00Z"
+      "first_seen_at": "2026-05-05T00:00:00Z",
+      "ai_maturity": "traditional",
+      "talent_density_rank": null,
+      "talent_density_score": null
     },
     {
       "title": "Product Manager, Data Center",
@@ -2252,7 +2450,10 @@
       "salary_max": 242000,
       "salary_currency": "USD",
       "salary_string": "$165k\u2013$242k",
-      "first_seen_at": "2026-05-05T00:00:00Z"
+      "first_seen_at": "2026-05-05T00:00:00Z",
+      "ai_maturity": null,
+      "talent_density_rank": null,
+      "talent_density_score": null
     },
     {
       "title": "Staff Product Manager, Data Services",
@@ -2286,7 +2487,10 @@
       "salary_max": 275000,
       "salary_currency": "USD",
       "salary_string": "$188k\u2013$275k",
-      "first_seen_at": "2026-05-05T00:00:00Z"
+      "first_seen_at": "2026-05-05T00:00:00Z",
+      "ai_maturity": null,
+      "talent_density_rank": null,
+      "talent_density_score": null
     },
     {
       "title": "Staff Product Manager, Insights",
@@ -2320,7 +2524,10 @@
       "salary_max": 275000,
       "salary_currency": "USD",
       "salary_string": "$188k\u2013$275k",
-      "first_seen_at": "2026-05-05T00:00:00Z"
+      "first_seen_at": "2026-05-05T00:00:00Z",
+      "ai_maturity": null,
+      "talent_density_rank": null,
+      "talent_density_score": null
     },
     {
       "title": "Staff Product Manager, Networking",
@@ -2354,7 +2561,10 @@
       "salary_max": 275000,
       "salary_currency": "USD",
       "salary_string": "$188k\u2013$275k",
-      "first_seen_at": "2026-05-05T00:00:00Z"
+      "first_seen_at": "2026-05-05T00:00:00Z",
+      "ai_maturity": null,
+      "talent_density_rank": null,
+      "talent_density_score": null
     },
     {
       "title": "VP of Product, Research and Training Infrastructure",
@@ -2388,7 +2598,10 @@
       "salary_max": 341000,
       "salary_currency": "USD",
       "salary_string": "$233k\u2013$341k",
-      "first_seen_at": "2026-05-05T00:00:00Z"
+      "first_seen_at": "2026-05-05T00:00:00Z",
+      "ai_maturity": null,
+      "talent_density_rank": null,
+      "talent_density_score": null
     },
     {
       "title": "Product Manager, Trust & Safety",
@@ -2422,7 +2635,10 @@
       "salary_max": 300000,
       "salary_currency": "USD",
       "salary_string": "$240k\u2013$300k",
-      "first_seen_at": "2026-05-05T00:00:00Z"
+      "first_seen_at": "2026-05-05T00:00:00Z",
+      "ai_maturity": "native",
+      "talent_density_rank": 17,
+      "talent_density_score": 0.724
     },
     {
       "title": "Product Lead, AI",
@@ -2456,7 +2672,10 @@
       "salary_max": 321500,
       "salary_currency": "USD",
       "salary_string": "$214k\u2013$321k",
-      "first_seen_at": "2026-05-04T00:00:00Z"
+      "first_seen_at": "2026-05-04T00:00:00Z",
+      "ai_maturity": "adopter",
+      "talent_density_rank": null,
+      "talent_density_score": null
     },
     {
       "title": "Product Manager, Banking as a Service",
@@ -2490,7 +2709,10 @@
       "salary_max": 268000,
       "salary_currency": "USD",
       "salary_string": "$178k\u2013$268k",
-      "first_seen_at": "2026-05-04T00:00:00Z"
+      "first_seen_at": "2026-05-04T00:00:00Z",
+      "ai_maturity": "adopter",
+      "talent_density_rank": null,
+      "talent_density_score": null
     },
     {
       "title": "Product Manager, Capital",
@@ -2524,7 +2746,10 @@
       "salary_max": 150000,
       "salary_currency": "GBP",
       "salary_string": "\u00a3100k\u2013\u00a3150k",
-      "first_seen_at": "2026-05-04T00:00:00Z"
+      "first_seen_at": "2026-05-04T00:00:00Z",
+      "ai_maturity": "adopter",
+      "talent_density_rank": null,
+      "talent_density_score": null
     },
     {
       "title": "Product Manager, Commerce Systems",
@@ -2558,7 +2783,10 @@
       "salary_max": 268000,
       "salary_currency": "USD",
       "salary_string": "$178k\u2013$268k",
-      "first_seen_at": "2026-05-04T00:00:00Z"
+      "first_seen_at": "2026-05-04T00:00:00Z",
+      "ai_maturity": "adopter",
+      "talent_density_rank": null,
+      "talent_density_score": null
     },
     {
       "title": "Product Manager, EMEA Payments Lead",
@@ -2592,7 +2820,10 @@
       "salary_max": 225600,
       "salary_currency": "EUR",
       "salary_string": "\u20ac150k\u2013\u20ac225k",
-      "first_seen_at": "2026-05-04T00:00:00Z"
+      "first_seen_at": "2026-05-04T00:00:00Z",
+      "ai_maturity": "adopter",
+      "talent_density_rank": null,
+      "talent_density_score": null
     },
     {
       "title": "Product Manager IC-02",
@@ -2626,7 +2857,10 @@
       "salary_max": 219600,
       "salary_currency": "USD",
       "salary_string": "$151k\u2013$220k",
-      "first_seen_at": "2026-05-04T00:00:00Z"
+      "first_seen_at": "2026-05-04T00:00:00Z",
+      "ai_maturity": "adopter",
+      "talent_density_rank": null,
+      "talent_density_score": null
     },
     {
       "title": "Product Manager, Link Consumer Product",
@@ -2660,7 +2894,10 @@
       "salary_max": 268000,
       "salary_currency": "USD",
       "salary_string": "$178k\u2013$268k",
-      "first_seen_at": "2026-05-04T00:00:00Z"
+      "first_seen_at": "2026-05-04T00:00:00Z",
+      "ai_maturity": "adopter",
+      "talent_density_rank": null,
+      "talent_density_score": null
     },
     {
       "title": "Product Manager, Local Payment Methods EMEA",
@@ -2693,7 +2930,10 @@
       "salary_max": 153600,
       "salary_currency": "EUR",
       "salary_string": "\u20ac102k\u2013\u20ac153k",
-      "first_seen_at": "2026-05-04T00:00:00Z"
+      "first_seen_at": "2026-05-04T00:00:00Z",
+      "ai_maturity": "adopter",
+      "talent_density_rank": null,
+      "talent_density_score": null
     },
     {
       "title": "Product Manager, Payments",
@@ -2727,7 +2967,10 @@
       "salary_max": 268000,
       "salary_currency": "USD",
       "salary_string": "$178k\u2013$268k",
-      "first_seen_at": "2026-05-04T00:00:00Z"
+      "first_seen_at": "2026-05-04T00:00:00Z",
+      "ai_maturity": "adopter",
+      "talent_density_rank": null,
+      "talent_density_score": null
     },
     {
       "title": "Product Manager, Risk & Compliance",
@@ -2761,7 +3004,10 @@
       "salary_max": null,
       "salary_currency": null,
       "salary_string": null,
-      "first_seen_at": "2026-05-04T00:00:00Z"
+      "first_seen_at": "2026-05-04T00:00:00Z",
+      "ai_maturity": "adopter",
+      "talent_density_rank": null,
+      "talent_density_score": null
     },
     {
       "title": "Product Manager, SEA",
@@ -2795,7 +3041,10 @@
       "salary_max": null,
       "salary_currency": null,
       "salary_string": null,
-      "first_seen_at": "2026-05-04T00:00:00Z"
+      "first_seen_at": "2026-05-04T00:00:00Z",
+      "ai_maturity": "adopter",
+      "talent_density_rank": null,
+      "talent_density_score": null
     },
     {
       "title": "Product Manager, Stripe Infrastructure",
@@ -2829,7 +3078,10 @@
       "salary_max": 268000,
       "salary_currency": "USD",
       "salary_string": "$178k\u2013$268k",
-      "first_seen_at": "2026-05-04T00:00:00Z"
+      "first_seen_at": "2026-05-04T00:00:00Z",
+      "ai_maturity": "adopter",
+      "talent_density_rank": null,
+      "talent_density_score": null
     },
     {
       "title": "Product Manager, Support Products - Support Experience",
@@ -2863,7 +3115,10 @@
       "salary_max": 153600,
       "salary_currency": "EUR",
       "salary_string": "\u20ac102k\u2013\u20ac153k",
-      "first_seen_at": "2026-05-04T00:00:00Z"
+      "first_seen_at": "2026-05-04T00:00:00Z",
+      "ai_maturity": "adopter",
+      "talent_density_rank": null,
+      "talent_density_score": null
     },
     {
       "title": "Product Manager, Terminal Device Expansion",
@@ -2897,7 +3152,10 @@
       "salary_max": 268000,
       "salary_currency": "USD",
       "salary_string": "$178k\u2013$268k",
-      "first_seen_at": "2026-05-04T00:00:00Z"
+      "first_seen_at": "2026-05-04T00:00:00Z",
+      "ai_maturity": "adopter",
+      "talent_density_rank": null,
+      "talent_density_score": null
     },
     {
       "title": "Product Manager, Terminal - Unified Commerce",
@@ -2931,7 +3189,10 @@
       "salary_max": 226800,
       "salary_currency": "CAD",
       "salary_string": "CA$151k\u2013CA$226k",
-      "first_seen_at": "2026-05-04T00:00:00Z"
+      "first_seen_at": "2026-05-04T00:00:00Z",
+      "ai_maturity": "adopter",
+      "talent_density_rank": null,
+      "talent_density_score": null
     },
     {
       "title": "Staff Product Manager, Enterprise (Industries) ",
@@ -2965,7 +3226,10 @@
       "salary_max": 321500,
       "salary_currency": "USD",
       "salary_string": "$214k\u2013$321k",
-      "first_seen_at": "2026-05-04T00:00:00Z"
+      "first_seen_at": "2026-05-04T00:00:00Z",
+      "ai_maturity": "adopter",
+      "talent_density_rank": null,
+      "talent_density_score": null
     },
     {
       "title": "Product Manager, API Growth",
@@ -2999,7 +3263,10 @@
       "salary_max": 385000,
       "salary_currency": "USD",
       "salary_string": "$305k\u2013$385k",
-      "first_seen_at": "2026-05-04T00:00:00Z"
+      "first_seen_at": "2026-05-04T00:00:00Z",
+      "ai_maturity": "native",
+      "talent_density_rank": 3,
+      "talent_density_score": 0.802
     },
     {
       "title": "Product Manager, Monetization",
@@ -3033,7 +3300,10 @@
       "salary_max": 385000,
       "salary_currency": "USD",
       "salary_string": "$305k\u2013$385k",
-      "first_seen_at": "2026-05-04T00:00:00Z"
+      "first_seen_at": "2026-05-04T00:00:00Z",
+      "ai_maturity": "native",
+      "talent_density_rank": 3,
+      "talent_density_score": 0.802
     },
     {
       "title": "Associate Product Manager",
@@ -3067,7 +3337,10 @@
       "salary_max": null,
       "salary_currency": null,
       "salary_string": null,
-      "first_seen_at": "2026-05-04T00:00:00Z"
+      "first_seen_at": "2026-05-04T00:00:00Z",
+      "ai_maturity": "adopter",
+      "talent_density_rank": null,
+      "talent_density_score": null
     },
     {
       "title": "Principal Product Manager",
@@ -3101,7 +3374,10 @@
       "salary_max": 245000,
       "salary_currency": "USD",
       "salary_string": "$137k\u2013$245k",
-      "first_seen_at": "2026-05-04T00:00:00Z"
+      "first_seen_at": "2026-05-04T00:00:00Z",
+      "ai_maturity": "adopter",
+      "talent_density_rank": null,
+      "talent_density_score": null
     },
     {
       "title": "Principal Product Manager - Maintenance",
@@ -3135,7 +3411,10 @@
       "salary_max": null,
       "salary_currency": null,
       "salary_string": null,
-      "first_seen_at": "2026-05-08T03:04:02Z"
+      "first_seen_at": "2026-05-08T03:04:02Z",
+      "ai_maturity": "adopter",
+      "talent_density_rank": null,
+      "talent_density_score": null
     },
     {
       "title": "Senior/Principal Product Manager - Safety AI",
@@ -3169,7 +3448,10 @@
       "salary_max": null,
       "salary_currency": null,
       "salary_string": null,
-      "first_seen_at": "2026-05-08T03:04:06Z"
+      "first_seen_at": "2026-05-08T03:04:06Z",
+      "ai_maturity": "adopter",
+      "talent_density_rank": null,
+      "talent_density_score": null
     },
     {
       "title": "Senior Product Manager, Growth",
@@ -3203,7 +3485,10 @@
       "salary_max": null,
       "salary_currency": null,
       "salary_string": null,
-      "first_seen_at": "2026-05-04T00:00:00Z"
+      "first_seen_at": "2026-05-04T00:00:00Z",
+      "ai_maturity": "adopter",
+      "talent_density_rank": null,
+      "talent_density_score": null
     },
     {
       "title": "Sr. Product Manager I, In-vehicle Experience",
@@ -3236,7 +3521,10 @@
       "salary_max": null,
       "salary_currency": null,
       "salary_string": null,
-      "first_seen_at": "2026-05-04T00:00:00Z"
+      "first_seen_at": "2026-05-04T00:00:00Z",
+      "ai_maturity": "adopter",
+      "talent_density_rank": null,
+      "talent_density_score": null
     },
     {
       "title": "Sr. Revenue Tools Product Manager I",
@@ -3269,7 +3557,10 @@
       "salary_max": 175950,
       "salary_currency": "USD",
       "salary_string": "$116k\u2013$176k",
-      "first_seen_at": "2026-05-04T00:00:00Z"
+      "first_seen_at": "2026-05-04T00:00:00Z",
+      "ai_maturity": "adopter",
+      "talent_density_rank": null,
+      "talent_density_score": null
     },
     {
       "title": "Senior Product Manager, Specialty Travel (HCP)",
@@ -3303,7 +3594,10 @@
       "salary_max": null,
       "salary_currency": null,
       "salary_string": null,
-      "first_seen_at": "2026-05-04T00:00:00Z"
+      "first_seen_at": "2026-05-04T00:00:00Z",
+      "ai_maturity": "adopter",
+      "talent_density_rank": null,
+      "talent_density_score": null
     },
     {
       "title": "Product Manager, Gen AI",
@@ -3337,7 +3631,10 @@
       "salary_max": 257000,
       "salary_currency": "USD",
       "salary_string": "$205k\u2013$257k",
-      "first_seen_at": "2026-05-04T00:00:00Z"
+      "first_seen_at": "2026-05-04T00:00:00Z",
+      "ai_maturity": "native",
+      "talent_density_rank": 17,
+      "talent_density_score": 0.724
     },
     {
       "title": "Product Manager - Fusion",
@@ -3371,7 +3668,10 @@
       "salary_max": 248000,
       "salary_currency": "USD",
       "salary_string": "$174k\u2013$248k",
-      "first_seen_at": "2026-05-04T00:00:00Z"
+      "first_seen_at": "2026-05-04T00:00:00Z",
+      "ai_maturity": "adopter",
+      "talent_density_rank": null,
+      "talent_density_score": null
     },
     {
       "title": "Product Manager, Domains",
@@ -3405,7 +3705,10 @@
       "salary_max": null,
       "salary_currency": null,
       "salary_string": null,
-      "first_seen_at": "2026-05-01T00:00:00Z"
+      "first_seen_at": "2026-05-01T00:00:00Z",
+      "ai_maturity": "traditional",
+      "talent_density_rank": null,
+      "talent_density_score": null
     },
     {
       "title": "Product Manager, Money Movement",
@@ -3439,7 +3742,10 @@
       "salary_max": 165000,
       "salary_currency": "USD",
       "salary_string": "$110k\u2013$165k",
-      "first_seen_at": "2026-05-01T00:00:00Z"
+      "first_seen_at": "2026-05-01T00:00:00Z",
+      "ai_maturity": "traditional",
+      "talent_density_rank": null,
+      "talent_density_score": null
     },
     {
       "title": "Staff Product Manager, Cortex",
@@ -3473,7 +3779,10 @@
       "salary_max": 225000,
       "salary_currency": "USD",
       "salary_string": "$191k\u2013$225k",
-      "first_seen_at": "2026-05-01T00:00:00Z"
+      "first_seen_at": "2026-05-01T00:00:00Z",
+      "ai_maturity": "traditional",
+      "talent_density_rank": null,
+      "talent_density_score": null
     },
     {
       "title": "Director of Product Management, Forward Deployed & Strategy",
@@ -3507,7 +3816,10 @@
       "salary_max": null,
       "salary_currency": null,
       "salary_string": null,
-      "first_seen_at": "2026-05-01T00:00:00Z"
+      "first_seen_at": "2026-05-01T00:00:00Z",
+      "ai_maturity": "native",
+      "talent_density_rank": 17,
+      "talent_density_score": 0.724
     },
     {
       "title": "Product Management, Human Data Platform",
@@ -3541,7 +3853,10 @@
       "salary_max": 385000,
       "salary_currency": "USD",
       "salary_string": "$305k\u2013$385k",
-      "first_seen_at": "2026-04-30T00:00:00Z"
+      "first_seen_at": "2026-04-30T00:00:00Z",
+      "ai_maturity": "native",
+      "talent_density_rank": 3,
+      "talent_density_score": 0.802
     },
     {
       "title": "Senior Product Manager",
@@ -3575,7 +3890,10 @@
       "salary_max": 247250,
       "salary_currency": "USD",
       "salary_string": "$153k\u2013$247k",
-      "first_seen_at": "2026-04-30T00:00:00Z"
+      "first_seen_at": "2026-04-30T00:00:00Z",
+      "ai_maturity": "traditional",
+      "talent_density_rank": null,
+      "talent_density_score": null
     },
     {
       "title": "Director, Product Management",
@@ -3609,7 +3927,10 @@
       "salary_max": 248800,
       "salary_currency": "USD",
       "salary_string": "$227k\u2013$248k",
-      "first_seen_at": "2026-04-30T00:00:00Z"
+      "first_seen_at": "2026-04-30T00:00:00Z",
+      "ai_maturity": "adopter",
+      "talent_density_rank": null,
+      "talent_density_score": null
     },
     {
       "title": "Principal Product Manager",
@@ -3643,7 +3964,10 @@
       "salary_max": 226500,
       "salary_currency": "USD",
       "salary_string": "$171k\u2013$227k",
-      "first_seen_at": "2026-04-30T00:00:00Z"
+      "first_seen_at": "2026-04-30T00:00:00Z",
+      "ai_maturity": "adopter",
+      "talent_density_rank": null,
+      "talent_density_score": null
     },
     {
       "title": "Principal, Product Manager - AI / LLM",
@@ -3677,7 +4001,10 @@
       "salary_max": 226500,
       "salary_currency": "USD",
       "salary_string": "$181k\u2013$226k",
-      "first_seen_at": "2026-04-30T00:00:00Z"
+      "first_seen_at": "2026-04-30T00:00:00Z",
+      "ai_maturity": "adopter",
+      "talent_density_rank": null,
+      "talent_density_score": null
     },
     {
       "title": "Staff Product Manager - Data Platforms",
@@ -3711,7 +4038,10 @@
       "salary_max": 228700,
       "salary_currency": "USD",
       "salary_string": "$155.5k\u2013$228.7k",
-      "first_seen_at": "2026-04-30T00:00:00Z"
+      "first_seen_at": "2026-04-30T00:00:00Z",
+      "ai_maturity": "adopter",
+      "talent_density_rank": null,
+      "talent_density_score": null
     },
     {
       "title": "Director of Product, CX Product",
@@ -3745,7 +4075,10 @@
       "salary_max": 312000,
       "salary_currency": "USD",
       "salary_string": "$249.6k\u2013$312k",
-      "first_seen_at": "2026-04-30T00:00:00Z"
+      "first_seen_at": "2026-04-30T00:00:00Z",
+      "ai_maturity": "traditional",
+      "talent_density_rank": null,
+      "talent_density_score": null
     },
     {
       "title": "Product Manager, Figma Weave (New York, United States)",
@@ -3779,7 +4112,10 @@
       "salary_max": 303000,
       "salary_currency": "USD",
       "salary_string": "$169k\u2013$303k",
-      "first_seen_at": "2026-04-29T00:00:00Z"
+      "first_seen_at": "2026-04-29T00:00:00Z",
+      "ai_maturity": "adopter",
+      "talent_density_rank": null,
+      "talent_density_score": null
     },
     {
       "title": "Senior Product Manager, DET",
@@ -3813,7 +4149,10 @@
       "salary_max": 247300,
       "salary_currency": "USD",
       "salary_string": "$182.8k\u2013$247.3k",
-      "first_seen_at": "2026-04-29T00:00:00Z"
+      "first_seen_at": "2026-04-29T00:00:00Z",
+      "ai_maturity": "adopter",
+      "talent_density_rank": null,
+      "talent_density_score": null
     },
     {
       "title": "Product Manager, AI & App Experience",
@@ -3847,7 +4186,10 @@
       "salary_max": 244000,
       "salary_currency": "USD",
       "salary_string": "$176k\u2013$244k",
-      "first_seen_at": "2026-04-29T00:00:00Z"
+      "first_seen_at": "2026-04-29T00:00:00Z",
+      "ai_maturity": "traditional",
+      "talent_density_rank": null,
+      "talent_density_score": null
     },
     {
       "title": "Product Manager, Data Platform",
@@ -3881,7 +4223,10 @@
       "salary_max": 244000,
       "salary_currency": "USD",
       "salary_string": "$207k\u2013$244k",
-      "first_seen_at": "2026-04-29T00:00:00Z"
+      "first_seen_at": "2026-04-29T00:00:00Z",
+      "ai_maturity": "traditional",
+      "talent_density_rank": null,
+      "talent_density_score": null
     },
     {
       "title": "Senior Product Manager, Trading Platform",
@@ -3915,7 +4260,10 @@
       "salary_max": 195000,
       "salary_currency": "USD",
       "salary_string": "$129k\u2013$195k",
-      "first_seen_at": "2026-04-29T00:00:00Z"
+      "first_seen_at": "2026-04-29T00:00:00Z",
+      "ai_maturity": "traditional",
+      "talent_density_rank": null,
+      "talent_density_score": null
     },
     {
       "title": "Product Manager - Security & Trust (EMEA/AMER)",
@@ -3949,7 +4297,10 @@
       "salary_max": null,
       "salary_currency": null,
       "salary_string": null,
-      "first_seen_at": "2026-04-29T00:00:00Z"
+      "first_seen_at": "2026-04-29T00:00:00Z",
+      "ai_maturity": "adopter",
+      "talent_density_rank": null,
+      "talent_density_score": null
     },
     {
       "title": "Group Product Manager, Knowledge Platform",
@@ -3983,7 +4334,10 @@
       "salary_max": null,
       "salary_currency": null,
       "salary_string": null,
-      "first_seen_at": "2026-04-29T00:00:00Z"
+      "first_seen_at": "2026-04-29T00:00:00Z",
+      "ai_maturity": "native",
+      "talent_density_rank": 16,
+      "talent_density_score": 0.741
     },
     {
       "title": "Staff Product Manager, Banking",
@@ -4017,7 +4371,10 @@
       "salary_max": 225000,
       "salary_currency": "USD",
       "salary_string": "$150k\u2013$225k",
-      "first_seen_at": "2026-04-28T00:00:00Z"
+      "first_seen_at": "2026-04-28T00:00:00Z",
+      "ai_maturity": "traditional",
+      "talent_density_rank": null,
+      "talent_density_score": null
     },
     {
       "title": "Staff Product Manager, International",
@@ -4051,7 +4408,10 @@
       "salary_max": 225000,
       "salary_currency": "USD",
       "salary_string": "$191k\u2013$225k",
-      "first_seen_at": "2026-04-28T00:00:00Z"
+      "first_seen_at": "2026-04-28T00:00:00Z",
+      "ai_maturity": "traditional",
+      "talent_density_rank": null,
+      "talent_density_score": null
     },
     {
       "title": "Staff Product Manager, International Growth & Expansion",
@@ -4085,7 +4445,10 @@
       "salary_max": null,
       "salary_currency": null,
       "salary_string": null,
-      "first_seen_at": "2026-04-28T00:00:00Z"
+      "first_seen_at": "2026-04-28T00:00:00Z",
+      "ai_maturity": "traditional",
+      "talent_density_rank": null,
+      "talent_density_score": null
     },
     {
       "title": "Pricing Product Manager",
@@ -4119,7 +4482,10 @@
       "salary_max": 258000,
       "salary_currency": "USD",
       "salary_string": "$172k\u2013$258k",
-      "first_seen_at": "2026-04-28T00:00:00Z"
+      "first_seen_at": "2026-04-28T00:00:00Z",
+      "ai_maturity": "adopter",
+      "talent_density_rank": null,
+      "talent_density_score": null
     },
     {
       "title": "Staff Product Manager",
@@ -4153,7 +4519,10 @@
       "salary_max": 265000,
       "salary_currency": "USD",
       "salary_string": "$212k\u2013$265k",
-      "first_seen_at": "2026-04-28T00:00:00Z"
+      "first_seen_at": "2026-04-28T00:00:00Z",
+      "ai_maturity": "traditional",
+      "talent_density_rank": null,
+      "talent_density_score": null
     },
     {
       "title": "Product Manager, Mistral Vibe",
@@ -4187,7 +4556,10 @@
       "salary_max": null,
       "salary_currency": null,
       "salary_string": null,
-      "first_seen_at": "2026-04-28T00:00:00Z"
+      "first_seen_at": "2026-04-28T00:00:00Z",
+      "ai_maturity": "native",
+      "talent_density_rank": 27,
+      "talent_density_score": 0.7
     },
     {
       "title": "Director of Product, Growth/AI",
@@ -4221,7 +4593,10 @@
       "salary_max": 425000,
       "salary_currency": "USD",
       "salary_string": "$340k\u2013$425k",
-      "first_seen_at": "2026-05-08T03:03:09Z"
+      "first_seen_at": "2026-05-08T03:03:09Z",
+      "ai_maturity": "adopter",
+      "talent_density_rank": null,
+      "talent_density_score": null
     },
     {
       "title": "Director Product Management, Banking + AP",
@@ -4249,7 +4624,10 @@
       "salary_max": 425000,
       "salary_currency": "USD",
       "salary_string": "$340k\u2013$425k",
-      "first_seen_at": "2026-05-08T03:03:11Z"
+      "first_seen_at": "2026-05-08T03:03:11Z",
+      "ai_maturity": "adopter",
+      "talent_density_rank": null,
+      "talent_density_score": null
     },
     {
       "title": "Staff Product Manager",
@@ -4283,7 +4661,10 @@
       "salary_max": 300000,
       "salary_currency": "USD",
       "salary_string": "$240k\u2013$300k",
-      "first_seen_at": "2026-04-27T00:00:00Z"
+      "first_seen_at": "2026-04-27T00:00:00Z",
+      "ai_maturity": "adopter",
+      "talent_density_rank": null,
+      "talent_density_score": null
     },
     {
       "title": "Staff AI Product Manager",
@@ -4317,7 +4698,10 @@
       "salary_max": null,
       "salary_currency": null,
       "salary_string": null,
-      "first_seen_at": "2026-04-27T00:00:00Z"
+      "first_seen_at": "2026-04-27T00:00:00Z",
+      "ai_maturity": "adopter",
+      "talent_density_rank": null,
+      "talent_density_score": null
     },
     {
       "title": "Group Product Manager",
@@ -4351,7 +4735,10 @@
       "salary_max": null,
       "salary_currency": null,
       "salary_string": null,
-      "first_seen_at": "2026-04-27T00:00:00Z"
+      "first_seen_at": "2026-04-27T00:00:00Z",
+      "ai_maturity": "adopter",
+      "talent_density_rank": null,
+      "talent_density_score": null
     },
     {
       "title": "Senior Product Manager, In-App Purchases",
@@ -4385,7 +4772,10 @@
       "salary_max": 240400,
       "salary_currency": "USD",
       "salary_string": "$177.7k\u2013$240.4k",
-      "first_seen_at": "2026-04-27T00:00:00Z"
+      "first_seen_at": "2026-04-27T00:00:00Z",
+      "ai_maturity": "adopter",
+      "talent_density_rank": null,
+      "talent_density_score": null
     },
     {
       "title": "Senior Product Manager, Music",
@@ -4419,7 +4809,10 @@
       "salary_max": null,
       "salary_currency": null,
       "salary_string": null,
-      "first_seen_at": "2026-04-27T00:00:00Z"
+      "first_seen_at": "2026-04-27T00:00:00Z",
+      "ai_maturity": "adopter",
+      "talent_density_rank": null,
+      "talent_density_score": null
     },
     {
       "title": "Senior Product Manager, Notifications",
@@ -4453,7 +4846,10 @@
       "salary_max": null,
       "salary_currency": null,
       "salary_string": null,
-      "first_seen_at": "2026-04-27T00:00:00Z"
+      "first_seen_at": "2026-04-27T00:00:00Z",
+      "ai_maturity": "adopter",
+      "talent_density_rank": null,
+      "talent_density_score": null
     },
     {
       "title": "Senior Product Manager, Score",
@@ -4487,7 +4883,10 @@
       "salary_max": 240400,
       "salary_currency": "USD",
       "salary_string": "$177.7k\u2013$240.4k",
-      "first_seen_at": "2026-04-27T00:00:00Z"
+      "first_seen_at": "2026-04-27T00:00:00Z",
+      "ai_maturity": "adopter",
+      "talent_density_rank": null,
+      "talent_density_score": null
     },
     {
       "title": "Director, Product Management, Tech Platform",
@@ -4521,7 +4920,10 @@
       "salary_max": 500000,
       "salary_currency": "USD",
       "salary_string": "$200k\u2013$500k",
-      "first_seen_at": "2026-04-27T00:00:00Z"
+      "first_seen_at": "2026-04-27T00:00:00Z",
+      "ai_maturity": "adopter",
+      "talent_density_rank": null,
+      "talent_density_score": null
     },
     {
       "title": "Staff Product Manager- Developer Experience",
@@ -4549,7 +4951,10 @@
       "salary_max": 239000,
       "salary_currency": "USD",
       "salary_string": "$197k\u2013$239k",
-      "first_seen_at": "2026-04-27T00:00:00Z"
+      "first_seen_at": "2026-04-27T00:00:00Z",
+      "ai_maturity": "adopter",
+      "talent_density_rank": null,
+      "talent_density_score": null
     },
     {
       "title": "Product Manager, Analytics (Senior/Lead-level)",
@@ -4583,7 +4988,10 @@
       "salary_max": null,
       "salary_currency": null,
       "salary_string": null,
-      "first_seen_at": "2026-04-27T00:00:00Z"
+      "first_seen_at": "2026-04-27T00:00:00Z",
+      "ai_maturity": "native",
+      "talent_density_rank": null,
+      "talent_density_score": null
     },
     {
       "title": "Product Manager, Public Sector GenAI Test & Evaluation (T&E)",
@@ -4617,7 +5025,10 @@
       "salary_max": 257000,
       "salary_currency": "USD",
       "salary_string": "$154.4k\u2013$257k",
-      "first_seen_at": "2026-04-24T00:00:00Z"
+      "first_seen_at": "2026-04-24T00:00:00Z",
+      "ai_maturity": "native",
+      "talent_density_rank": 17,
+      "talent_density_score": 0.724
     },
     {
       "title": "Product Manager, Document Intelligence",
@@ -4651,7 +5062,10 @@
       "salary_max": null,
       "salary_currency": null,
       "salary_string": null,
-      "first_seen_at": "2026-04-24T00:00:00Z"
+      "first_seen_at": "2026-04-24T00:00:00Z",
+      "ai_maturity": "native",
+      "talent_density_rank": 27,
+      "talent_density_score": 0.7
     },
     {
       "title": "Product Manager, Context & Search",
@@ -4685,7 +5099,10 @@
       "salary_max": null,
       "salary_currency": null,
       "salary_string": null,
-      "first_seen_at": "2026-04-24T00:00:00Z"
+      "first_seen_at": "2026-04-24T00:00:00Z",
+      "ai_maturity": "native",
+      "talent_density_rank": 27,
+      "talent_density_score": 0.7
     },
     {
       "title": "Director, Product Management, MyPay",
@@ -4719,7 +5136,10 @@
       "salary_max": 330000,
       "salary_currency": "USD",
       "salary_string": "$239k\u2013$330k",
-      "first_seen_at": "2026-04-23T00:00:00Z"
+      "first_seen_at": "2026-04-23T00:00:00Z",
+      "ai_maturity": "traditional",
+      "talent_density_rank": null,
+      "talent_density_score": null
     },
     {
       "title": "Product Manager",
@@ -4753,7 +5173,10 @@
       "salary_max": null,
       "salary_currency": null,
       "salary_string": null,
-      "first_seen_at": "2026-04-22T00:00:00Z"
+      "first_seen_at": "2026-04-22T00:00:00Z",
+      "ai_maturity": "adopter",
+      "talent_density_rank": null,
+      "talent_density_score": null
     },
     {
       "title": "Senior Product Manager",
@@ -4787,7 +5210,10 @@
       "salary_max": 222075,
       "salary_currency": "USD",
       "salary_string": "$140k\u2013$222k",
-      "first_seen_at": "2026-05-08T03:03:29Z"
+      "first_seen_at": "2026-05-08T03:03:29Z",
+      "ai_maturity": "adopter",
+      "talent_density_rank": null,
+      "talent_density_score": null
     },
     {
       "title": "Forward Deployed Product Manager",
@@ -4821,7 +5247,10 @@
       "salary_max": 280000,
       "salary_currency": "USD",
       "salary_string": "$170k\u2013$280k",
-      "first_seen_at": "2026-05-08T03:05:07Z"
+      "first_seen_at": "2026-05-08T03:05:07Z",
+      "ai_maturity": "native",
+      "talent_density_rank": 10,
+      "talent_density_score": 0.756
     },
     {
       "title": "Product Management Lead, Core Experience",
@@ -4855,7 +5284,10 @@
       "salary_max": 240000,
       "salary_currency": "USD",
       "salary_string": "$210k\u2013$240k",
-      "first_seen_at": "2026-04-22T00:00:00Z"
+      "first_seen_at": "2026-04-22T00:00:00Z",
+      "ai_maturity": "native",
+      "talent_density_rank": 10,
+      "talent_density_score": 0.756
     },
     {
       "title": "Product Manager",
@@ -4889,7 +5321,10 @@
       "salary_max": 240000,
       "salary_currency": "USD",
       "salary_string": "$105k\u2013$240k",
-      "first_seen_at": "2026-04-22T00:00:00Z"
+      "first_seen_at": "2026-04-22T00:00:00Z",
+      "ai_maturity": "native",
+      "talent_density_rank": 10,
+      "talent_density_score": 0.756
     },
     {
       "title": "Product Manager, Agent Security & Governance",
@@ -4923,7 +5358,10 @@
       "salary_max": 240000,
       "salary_currency": "USD",
       "salary_string": "$160k\u2013$240k",
-      "first_seen_at": "2026-04-22T00:00:00Z"
+      "first_seen_at": "2026-04-22T00:00:00Z",
+      "ai_maturity": "native",
+      "talent_density_rank": 10,
+      "talent_density_score": 0.756
     },
     {
       "title": "Product Manager, AI Quality",
@@ -4957,7 +5395,10 @@
       "salary_max": 240000,
       "salary_currency": "USD",
       "salary_string": "$160k\u2013$240k",
-      "first_seen_at": "2026-04-22T00:00:00Z"
+      "first_seen_at": "2026-04-22T00:00:00Z",
+      "ai_maturity": "native",
+      "talent_density_rank": 10,
+      "talent_density_score": 0.756
     },
     {
       "title": "Product Manager, Connectors",
@@ -4991,7 +5432,10 @@
       "salary_max": null,
       "salary_currency": null,
       "salary_string": null,
-      "first_seen_at": "2026-04-22T00:00:00Z"
+      "first_seen_at": "2026-04-22T00:00:00Z",
+      "ai_maturity": "native",
+      "talent_density_rank": 10,
+      "talent_density_score": 0.756
     },
     {
       "title": "Product Manager, Glean Protect (Security & Governance)",
@@ -5025,7 +5469,10 @@
       "salary_max": null,
       "salary_currency": null,
       "salary_string": null,
-      "first_seen_at": "2026-04-22T00:00:00Z"
+      "first_seen_at": "2026-04-22T00:00:00Z",
+      "ai_maturity": "native",
+      "talent_density_rank": 10,
+      "talent_density_score": 0.756
     },
     {
       "title": "Product Manager (Control Plane)",
@@ -5059,7 +5506,10 @@
       "salary_max": 202000,
       "salary_currency": "USD",
       "salary_string": "$166k\u2013$202k",
-      "first_seen_at": "2026-04-21T00:00:00Z"
+      "first_seen_at": "2026-04-21T00:00:00Z",
+      "ai_maturity": "adopter",
+      "talent_density_rank": null,
+      "talent_density_score": null
     },
     {
       "title": "Product Manager, FinTech",
@@ -5093,7 +5543,10 @@
       "salary_max": 194000,
       "salary_currency": "USD",
       "salary_string": "$141k\u2013$194k",
-      "first_seen_at": "2026-04-21T00:00:00Z"
+      "first_seen_at": "2026-04-21T00:00:00Z",
+      "ai_maturity": "adopter",
+      "talent_density_rank": null,
+      "talent_density_score": null
     },
     {
       "title": "Senior Product Manager, Application Performance",
@@ -5127,7 +5580,10 @@
       "salary_max": 246000,
       "salary_currency": "USD",
       "salary_string": "$202k\u2013$246k",
-      "first_seen_at": "2026-04-21T00:00:00Z"
+      "first_seen_at": "2026-04-21T00:00:00Z",
+      "ai_maturity": "adopter",
+      "talent_density_rank": null,
+      "talent_density_score": null
     },
     {
       "title": " Senior Product Manager - Cloudflare One Appliance",
@@ -5155,7 +5611,10 @@
       "salary_max": 200000,
       "salary_currency": "USD",
       "salary_string": "$156k\u2013$200k",
-      "first_seen_at": "2026-04-21T00:00:00Z"
+      "first_seen_at": "2026-04-21T00:00:00Z",
+      "ai_maturity": "adopter",
+      "talent_density_rank": null,
+      "talent_density_score": null
     },
     {
       "title": "Senior Product Manager, Cloudflare WAN",
@@ -5189,7 +5648,10 @@
       "salary_max": 215000,
       "salary_currency": "USD",
       "salary_string": "$156k\u2013$215k",
-      "first_seen_at": "2026-04-21T00:00:00Z"
+      "first_seen_at": "2026-04-21T00:00:00Z",
+      "ai_maturity": "adopter",
+      "talent_density_rank": null,
+      "talent_density_score": null
     },
     {
       "title": "Senior Product Manager, DDoS",
@@ -5217,7 +5679,10 @@
       "salary_max": null,
       "salary_currency": null,
       "salary_string": null,
-      "first_seen_at": "2026-04-21T00:00:00Z"
+      "first_seen_at": "2026-04-21T00:00:00Z",
+      "ai_maturity": "adopter",
+      "talent_density_rank": null,
+      "talent_density_score": null
     },
     {
       "title": "Senior Product Manager - Enterprise",
@@ -5251,7 +5716,10 @@
       "salary_max": null,
       "salary_currency": null,
       "salary_string": null,
-      "first_seen_at": "2026-04-21T00:00:00Z"
+      "first_seen_at": "2026-04-21T00:00:00Z",
+      "ai_maturity": "adopter",
+      "talent_density_rank": null,
+      "talent_density_score": null
     },
     {
       "title": "Senior Product Manager; Load Balancing",
@@ -5284,7 +5752,10 @@
       "salary_max": 246000,
       "salary_currency": "USD",
       "salary_string": "$179k\u2013$246k",
-      "first_seen_at": "2026-04-21T00:00:00Z"
+      "first_seen_at": "2026-04-21T00:00:00Z",
+      "ai_maturity": "adopter",
+      "talent_density_rank": null,
+      "talent_density_score": null
     },
     {
       "title": "Product Manager (Builder)",
@@ -5318,7 +5789,10 @@
       "salary_max": null,
       "salary_currency": null,
       "salary_string": null,
-      "first_seen_at": "2026-04-21T00:00:00Z"
+      "first_seen_at": "2026-04-21T00:00:00Z",
+      "ai_maturity": "native",
+      "talent_density_rank": null,
+      "talent_density_score": null
     },
     {
       "title": "Staff Product Manager",
@@ -5352,7 +5826,10 @@
       "salary_max": null,
       "salary_currency": null,
       "salary_string": null,
-      "first_seen_at": "2026-04-20T00:00:00Z"
+      "first_seen_at": "2026-04-20T00:00:00Z",
+      "ai_maturity": "adopter",
+      "talent_density_rank": null,
+      "talent_density_score": null
     },
     {
       "title": "Staff Product Manager ",
@@ -5386,7 +5863,10 @@
       "salary_max": null,
       "salary_currency": null,
       "salary_string": null,
-      "first_seen_at": "2026-04-20T00:00:00Z"
+      "first_seen_at": "2026-04-20T00:00:00Z",
+      "ai_maturity": "adopter",
+      "talent_density_rank": null,
+      "talent_density_score": null
     },
     {
       "title": "Senior Product Manager, Web ",
@@ -5420,7 +5900,10 @@
       "salary_max": null,
       "salary_currency": null,
       "salary_string": null,
-      "first_seen_at": "2026-05-08T03:03:17Z"
+      "first_seen_at": "2026-05-08T03:03:17Z",
+      "ai_maturity": "adopter",
+      "talent_density_rank": null,
+      "talent_density_score": null
     },
     {
       "title": "Product Manager, AI Platform",
@@ -5454,7 +5937,10 @@
       "salary_max": 303000,
       "salary_currency": "USD",
       "salary_string": "$169k\u2013$303k",
-      "first_seen_at": "2026-04-15T00:00:00Z"
+      "first_seen_at": "2026-04-15T00:00:00Z",
+      "ai_maturity": "adopter",
+      "talent_density_rank": null,
+      "talent_density_score": null
     },
     {
       "title": "Product Manager, Design Tools",
@@ -5488,7 +5974,10 @@
       "salary_max": 303000,
       "salary_currency": "USD",
       "salary_string": "$169k\u2013$303k",
-      "first_seen_at": "2026-04-15T00:00:00Z"
+      "first_seen_at": "2026-04-15T00:00:00Z",
+      "ai_maturity": "adopter",
+      "talent_density_rank": null,
+      "talent_density_score": null
     },
     {
       "title": "Senior Product Manager, Acuity Scheduling  ",
@@ -5522,7 +6011,10 @@
       "salary_max": 247250,
       "salary_currency": "USD",
       "salary_string": "$153k\u2013$247k",
-      "first_seen_at": "2026-04-15T00:00:00Z"
+      "first_seen_at": "2026-04-15T00:00:00Z",
+      "ai_maturity": "traditional",
+      "talent_density_rank": null,
+      "talent_density_score": null
     },
     {
       "title": "Senior Product Manager, Commerce ",
@@ -5556,7 +6048,10 @@
       "salary_max": 247250,
       "salary_currency": "USD",
       "salary_string": "$153k\u2013$247k",
-      "first_seen_at": "2026-04-15T00:00:00Z"
+      "first_seen_at": "2026-04-15T00:00:00Z",
+      "ai_maturity": "traditional",
+      "talent_density_rank": null,
+      "talent_density_score": null
     },
     {
       "title": "Staff Product Manager",
@@ -5588,7 +6083,10 @@
       "salary_max": 299000,
       "salary_currency": "USD",
       "salary_string": "$185.5k\u2013$299k",
-      "first_seen_at": "2026-04-15T00:00:00Z"
+      "first_seen_at": "2026-04-15T00:00:00Z",
+      "ai_maturity": "traditional",
+      "talent_density_rank": null,
+      "talent_density_score": null
     },
     {
       "title": "Senior Product Manager - Enterprise & User Management",
@@ -5622,7 +6120,10 @@
       "salary_max": null,
       "salary_currency": null,
       "salary_string": null,
-      "first_seen_at": "2026-04-14T00:00:00Z"
+      "first_seen_at": "2026-04-14T00:00:00Z",
+      "ai_maturity": null,
+      "talent_density_rank": null,
+      "talent_density_score": null
     },
     {
       "title": "Senior Product Manager - Platform",
@@ -5656,7 +6157,10 @@
       "salary_max": 250000,
       "salary_currency": "USD",
       "salary_string": "$218k\u2013$250k",
-      "first_seen_at": "2026-04-14T00:00:00Z"
+      "first_seen_at": "2026-04-14T00:00:00Z",
+      "ai_maturity": "adopter",
+      "talent_density_rank": null,
+      "talent_density_score": null
     },
     {
       "title": "Staff Product Manager, Agent Platform ",
@@ -5690,7 +6194,10 @@
       "salary_max": 300000,
       "salary_currency": "USD",
       "salary_string": "$213.6k\u2013$300k",
-      "first_seen_at": "2026-04-14T00:00:00Z"
+      "first_seen_at": "2026-04-14T00:00:00Z",
+      "ai_maturity": "native",
+      "talent_density_rank": 16,
+      "talent_density_score": 0.741
     },
     {
       "title": "Product Manager, Cloud Partnerships",
@@ -5724,7 +6231,10 @@
       "salary_max": null,
       "salary_currency": null,
       "salary_string": null,
-      "first_seen_at": "2026-04-14T00:00:00Z"
+      "first_seen_at": "2026-04-14T00:00:00Z",
+      "ai_maturity": "native",
+      "talent_density_rank": 27,
+      "talent_density_score": 0.7
     },
     {
       "title": "Staff Technical Product Manager",
@@ -5758,7 +6268,10 @@
       "salary_max": null,
       "salary_currency": null,
       "salary_string": null,
-      "first_seen_at": "2026-04-10T00:00:00Z"
+      "first_seen_at": "2026-04-10T00:00:00Z",
+      "ai_maturity": "native",
+      "talent_density_rank": 17,
+      "talent_density_score": 0.724
     },
     {
       "title": "Product Manager, Navan Connect",
@@ -5792,7 +6305,10 @@
       "salary_max": 222000,
       "salary_currency": "USD",
       "salary_string": "$99.9k\u2013$222k",
-      "first_seen_at": "2026-04-09T00:00:00Z"
+      "first_seen_at": "2026-04-09T00:00:00Z",
+      "ai_maturity": "adopter",
+      "talent_density_rank": null,
+      "talent_density_score": null
     },
     {
       "title": "Sr. Product Manager, Payments",
@@ -5826,7 +6342,10 @@
       "salary_max": 255000,
       "salary_currency": "USD",
       "salary_string": "$115k\u2013$255k",
-      "first_seen_at": "2026-04-09T00:00:00Z"
+      "first_seen_at": "2026-04-09T00:00:00Z",
+      "ai_maturity": "adopter",
+      "talent_density_rank": null,
+      "talent_density_score": null
     },
     {
       "title": "Sr. Product Manager, Policy",
@@ -5860,7 +6379,10 @@
       "salary_max": 255000,
       "salary_currency": "USD",
       "salary_string": "$115k\u2013$255k",
-      "first_seen_at": "2026-04-09T00:00:00Z"
+      "first_seen_at": "2026-04-09T00:00:00Z",
+      "ai_maturity": "adopter",
+      "talent_density_rank": null,
+      "talent_density_score": null
     },
     {
       "title": "Product Leadership, Value Pillar",
@@ -5891,7 +6413,10 @@
       "salary_max": 418000,
       "salary_currency": "USD",
       "salary_string": "$304k\u2013$418k",
-      "first_seen_at": "2026-04-09T00:00:00Z"
+      "first_seen_at": "2026-04-09T00:00:00Z",
+      "ai_maturity": "traditional",
+      "talent_density_rank": 48,
+      "talent_density_score": 0.664
     },
     {
       "title": "Staff Product Manager, Brand",
@@ -5925,7 +6450,10 @@
       "salary_max": 302500,
       "salary_currency": "USD",
       "salary_string": "$220k\u2013$302.5k",
-      "first_seen_at": "2026-04-09T00:00:00Z"
+      "first_seen_at": "2026-04-09T00:00:00Z",
+      "ai_maturity": "traditional",
+      "talent_density_rank": 48,
+      "talent_density_score": 0.664
     },
     {
       "title": "Product Manager, Data Engine",
@@ -5959,7 +6487,10 @@
       "salary_max": 266000,
       "salary_currency": "USD",
       "salary_string": "$177.6k\u2013$266k",
-      "first_seen_at": "2026-04-09T00:00:00Z"
+      "first_seen_at": "2026-04-09T00:00:00Z",
+      "ai_maturity": "native",
+      "talent_density_rank": 17,
+      "talent_density_score": 0.724
     },
     {
       "title": "Senior Product Manager, International & Enterprise",
@@ -5993,7 +6524,10 @@
       "salary_max": 220000,
       "salary_currency": "USD",
       "salary_string": "$176k\u2013$220k",
-      "first_seen_at": "2026-04-08T00:00:00Z"
+      "first_seen_at": "2026-04-08T00:00:00Z",
+      "ai_maturity": null,
+      "talent_density_rank": null,
+      "talent_density_score": null
     },
     {
       "title": "Product Manager, Forge",
@@ -6027,7 +6561,10 @@
       "salary_max": null,
       "salary_currency": null,
       "salary_string": null,
-      "first_seen_at": "2026-04-08T00:00:00Z"
+      "first_seen_at": "2026-04-08T00:00:00Z",
+      "ai_maturity": "native",
+      "talent_density_rank": 27,
+      "talent_density_score": 0.7
     },
     {
       "title": "Senior Product Manager",
@@ -6061,7 +6598,10 @@
       "salary_max": null,
       "salary_currency": null,
       "salary_string": null,
-      "first_seen_at": "2026-04-07T00:00:00Z"
+      "first_seen_at": "2026-04-07T00:00:00Z",
+      "ai_maturity": null,
+      "talent_density_rank": null,
+      "talent_density_score": null
     },
     {
       "title": "Lead Product Manager",
@@ -6095,7 +6635,10 @@
       "salary_max": 240000,
       "salary_currency": "USD",
       "salary_string": "$194k\u2013$240k",
-      "first_seen_at": "2026-04-07T00:00:00Z"
+      "first_seen_at": "2026-04-07T00:00:00Z",
+      "ai_maturity": "traditional",
+      "talent_density_rank": null,
+      "talent_density_score": null
     },
     {
       "title": "Product Manager, AI Models",
@@ -6129,7 +6672,10 @@
       "salary_max": 235000,
       "salary_currency": "USD",
       "salary_string": "$171k\u2013$235k",
-      "first_seen_at": "2026-04-07T00:00:00Z"
+      "first_seen_at": "2026-04-07T00:00:00Z",
+      "ai_maturity": "native",
+      "talent_density_rank": null,
+      "talent_density_score": null
     },
     {
       "title": "Product Manager, API & Platform",
@@ -6162,7 +6708,10 @@
       "salary_max": 235000,
       "salary_currency": "USD",
       "salary_string": "$171k\u2013$235k",
-      "first_seen_at": "2026-04-07T00:00:00Z"
+      "first_seen_at": "2026-04-07T00:00:00Z",
+      "ai_maturity": "native",
+      "talent_density_rank": null,
+      "talent_density_score": null
     },
     {
       "title": "Product Manager, Editor",
@@ -6196,7 +6745,10 @@
       "salary_max": 235000,
       "salary_currency": "USD",
       "salary_string": "$171k\u2013$235k",
-      "first_seen_at": "2026-04-07T00:00:00Z"
+      "first_seen_at": "2026-04-07T00:00:00Z",
+      "ai_maturity": "native",
+      "talent_density_rank": null,
+      "talent_density_score": null
     },
     {
       "title": "Senior product manager, datasets & objects",
@@ -6230,7 +6782,10 @@
       "salary_max": 227010,
       "salary_currency": "USD",
       "salary_string": "$187k\u2013$227k",
-      "first_seen_at": "2026-04-07T00:00:00Z"
+      "first_seen_at": "2026-04-07T00:00:00Z",
+      "ai_maturity": "adopter",
+      "talent_density_rank": null,
+      "talent_density_score": null
     },
     {
       "title": "Staff Product Manager, Embedded Experience",
@@ -6264,7 +6819,10 @@
       "salary_max": null,
       "salary_currency": null,
       "salary_string": null,
-      "first_seen_at": "2026-04-03T00:00:00Z"
+      "first_seen_at": "2026-04-03T00:00:00Z",
+      "ai_maturity": "native",
+      "talent_density_rank": 16,
+      "talent_density_score": 0.741
     },
     {
       "title": "Product Manager, Claude Code",
@@ -6298,7 +6856,10 @@
       "salary_max": 305000,
       "salary_currency": "USD",
       "salary_string": "$285k\u2013$305k",
-      "first_seen_at": "2026-04-01T00:00:00Z"
+      "first_seen_at": "2026-04-01T00:00:00Z",
+      "ai_maturity": "native",
+      "talent_density_rank": 3,
+      "talent_density_score": 0.802
     },
     {
       "title": "Staff Product Manager, AI Patient Experience",
@@ -6332,7 +6893,10 @@
       "salary_max": 265000,
       "salary_currency": "USD",
       "salary_string": "$212k\u2013$265k",
-      "first_seen_at": "2026-04-01T00:00:00Z"
+      "first_seen_at": "2026-04-01T00:00:00Z",
+      "ai_maturity": "traditional",
+      "talent_density_rank": null,
+      "talent_density_score": null
     },
     {
       "title": "Product Manager, Video Creation & Editing (Principal-level)",
@@ -6366,7 +6930,10 @@
       "salary_max": null,
       "salary_currency": null,
       "salary_string": null,
-      "first_seen_at": "2026-04-01T00:00:00Z"
+      "first_seen_at": "2026-04-01T00:00:00Z",
+      "ai_maturity": "native",
+      "talent_density_rank": null,
+      "talent_density_score": null
     },
     {
       "title": "Senior Product Manager - Forecast ",
@@ -6400,7 +6967,10 @@
       "salary_max": null,
       "salary_currency": null,
       "salary_string": null,
-      "first_seen_at": "2026-03-31T00:00:00Z"
+      "first_seen_at": "2026-03-31T00:00:00Z",
+      "ai_maturity": null,
+      "talent_density_rank": null,
+      "talent_density_score": null
     },
     {
       "title": "Staff Product Manager, Knowledge Platform",
@@ -6434,7 +7004,10 @@
       "salary_max": null,
       "salary_currency": null,
       "salary_string": null,
-      "first_seen_at": "2026-03-31T00:00:00Z"
+      "first_seen_at": "2026-03-31T00:00:00Z",
+      "ai_maturity": "native",
+      "talent_density_rank": 16,
+      "talent_density_score": 0.741
     },
     {
       "title": "Product Manager, AI Studio",
@@ -6468,7 +7041,10 @@
       "salary_max": null,
       "salary_currency": null,
       "salary_string": null,
-      "first_seen_at": "2026-03-31T00:00:00Z"
+      "first_seen_at": "2026-03-31T00:00:00Z",
+      "ai_maturity": "native",
+      "talent_density_rank": 27,
+      "talent_density_score": 0.7
     },
     {
       "title": "Group Product Manager",
@@ -6502,7 +7078,10 @@
       "salary_max": null,
       "salary_currency": null,
       "salary_string": null,
-      "first_seen_at": "2026-03-26T00:00:00Z"
+      "first_seen_at": "2026-03-26T00:00:00Z",
+      "ai_maturity": null,
+      "talent_density_rank": null,
+      "talent_density_score": null
     },
     {
       "title": "AI Product Manager",
@@ -6536,7 +7115,10 @@
       "salary_max": 270000,
       "salary_currency": "USD",
       "salary_string": "$216k\u2013$270k",
-      "first_seen_at": "2026-03-26T00:00:00Z"
+      "first_seen_at": "2026-03-26T00:00:00Z",
+      "ai_maturity": "native",
+      "talent_density_rank": 17,
+      "talent_density_score": 0.724
     },
     {
       "title": "Product Manager",
@@ -6570,7 +7152,10 @@
       "salary_max": null,
       "salary_currency": null,
       "salary_string": null,
-      "first_seen_at": "2026-03-26T00:00:00Z"
+      "first_seen_at": "2026-03-26T00:00:00Z",
+      "ai_maturity": "native",
+      "talent_density_rank": 17,
+      "talent_density_score": 0.724
     },
     {
       "title": "Product Manager of AI Applications, Global Public Sector",
@@ -6604,7 +7189,10 @@
       "salary_max": null,
       "salary_currency": null,
       "salary_string": null,
-      "first_seen_at": "2026-03-26T00:00:00Z"
+      "first_seen_at": "2026-03-26T00:00:00Z",
+      "ai_maturity": "native",
+      "talent_density_rank": 17,
+      "talent_density_score": 0.724
     },
     {
       "title": "Staff Product Manager, Agentic Platform",
@@ -6638,7 +7226,10 @@
       "salary_max": 297000,
       "salary_currency": "USD",
       "salary_string": "$237.6k\u2013$297k",
-      "first_seen_at": "2026-03-26T00:00:00Z"
+      "first_seen_at": "2026-03-26T00:00:00Z",
+      "ai_maturity": "native",
+      "talent_density_rank": 17,
+      "talent_density_score": 0.724
     },
     {
       "title": "Product Manager - Pricing & Billing",
@@ -6672,7 +7263,10 @@
       "salary_max": null,
       "salary_currency": null,
       "salary_string": null,
-      "first_seen_at": "2026-03-23T00:00:00Z"
+      "first_seen_at": "2026-03-23T00:00:00Z",
+      "ai_maturity": "adopter",
+      "talent_density_rank": null,
+      "talent_density_score": null
     },
     {
       "title": "Product Manager, International Growth",
@@ -6706,7 +7300,10 @@
       "salary_max": null,
       "salary_currency": null,
       "salary_string": null,
-      "first_seen_at": "2026-03-20T00:00:00Z"
+      "first_seen_at": "2026-03-20T00:00:00Z",
+      "ai_maturity": "traditional",
+      "talent_density_rank": 46,
+      "talent_density_score": 0.668
     },
     {
       "title": "Product Manager, Public Sector & Defence",
@@ -6740,7 +7337,10 @@
       "salary_max": null,
       "salary_currency": null,
       "salary_string": null,
-      "first_seen_at": "2026-03-18T00:00:00Z"
+      "first_seen_at": "2026-03-18T00:00:00Z",
+      "ai_maturity": "native",
+      "talent_density_rank": 9,
+      "talent_density_score": 0.761
     },
     {
       "title": "Product Manager, Agent Harness & Modelling",
@@ -6774,7 +7374,10 @@
       "salary_max": null,
       "salary_currency": null,
       "salary_string": null,
-      "first_seen_at": "2026-03-18T00:00:00Z"
+      "first_seen_at": "2026-03-18T00:00:00Z",
+      "ai_maturity": "native",
+      "talent_density_rank": 9,
+      "talent_density_score": 0.761
     },
     {
       "title": "Sr. Staff Product Manager",
@@ -6808,7 +7411,10 @@
       "salary_max": null,
       "salary_currency": null,
       "salary_string": null,
-      "first_seen_at": "2026-03-17T00:00:00Z"
+      "first_seen_at": "2026-03-17T00:00:00Z",
+      "ai_maturity": "adopter",
+      "talent_density_rank": null,
+      "talent_density_score": null
     },
     {
       "title": "Product Manager, Enterprise",
@@ -6842,7 +7448,10 @@
       "salary_max": 250000,
       "salary_currency": "USD",
       "salary_string": "$180k\u2013$250k",
-      "first_seen_at": "2026-03-17T00:00:00Z"
+      "first_seen_at": "2026-03-17T00:00:00Z",
+      "ai_maturity": "adopter",
+      "talent_density_rank": null,
+      "talent_density_score": null
     },
     {
       "title": "Staff Product Manager, Identity Risk Solutions",
@@ -6876,7 +7485,10 @@
       "salary_max": 244000,
       "salary_currency": "USD",
       "salary_string": "$176k\u2013$244k",
-      "first_seen_at": "2026-03-12T00:00:00Z"
+      "first_seen_at": "2026-03-12T00:00:00Z",
+      "ai_maturity": "traditional",
+      "talent_density_rank": null,
+      "talent_density_score": null
     },
     {
       "title": "Product Manager,  Platform Experience & Developer Product",
@@ -6910,7 +7522,10 @@
       "salary_max": null,
       "salary_currency": null,
       "salary_string": null,
-      "first_seen_at": "2026-03-12T00:00:00Z"
+      "first_seen_at": "2026-03-12T00:00:00Z",
+      "ai_maturity": "native",
+      "talent_density_rank": 9,
+      "talent_density_score": 0.761
     },
     {
       "title": "Product Manager, Safety Research",
@@ -6944,7 +7559,10 @@
       "salary_max": null,
       "salary_currency": null,
       "salary_string": null,
-      "first_seen_at": "2026-03-11T00:00:00Z"
+      "first_seen_at": "2026-03-11T00:00:00Z",
+      "ai_maturity": "native",
+      "talent_density_rank": 9,
+      "talent_density_score": 0.761
     },
     {
       "title": "Product Manager,  Native Experience & Growth",
@@ -6978,7 +7596,10 @@
       "salary_max": null,
       "salary_currency": null,
       "salary_string": null,
-      "first_seen_at": "2026-03-11T00:00:00Z"
+      "first_seen_at": "2026-03-11T00:00:00Z",
+      "ai_maturity": "native",
+      "talent_density_rank": 9,
+      "talent_density_score": 0.761
     },
     {
       "title": "Director, Product Management (AI Search)",
@@ -7012,7 +7633,10 @@
       "salary_max": null,
       "salary_currency": null,
       "salary_string": null,
-      "first_seen_at": "2026-03-09T00:00:00Z"
+      "first_seen_at": "2026-03-09T00:00:00Z",
+      "ai_maturity": "adopter",
+      "talent_density_rank": null,
+      "talent_density_score": null
     },
     {
       "title": "Senior Product Manager, Data",
@@ -7046,7 +7670,10 @@
       "salary_max": null,
       "salary_currency": null,
       "salary_string": null,
-      "first_seen_at": "2026-03-09T00:00:00Z"
+      "first_seen_at": "2026-03-09T00:00:00Z",
+      "ai_maturity": "adopter",
+      "talent_density_rank": null,
+      "talent_density_score": null
     },
     {
       "title": "Senior product manager, methodology",
@@ -7080,7 +7707,10 @@
       "salary_max": 227010,
       "salary_currency": "USD",
       "salary_string": "$187k\u2013$227k",
-      "first_seen_at": "2026-03-07T00:00:00Z"
+      "first_seen_at": "2026-03-07T00:00:00Z",
+      "ai_maturity": "adopter",
+      "talent_density_rank": null,
+      "talent_density_score": null
     },
     {
       "title": "Staff Product Manager, Growth",
@@ -7114,7 +7744,10 @@
       "salary_max": 244000,
       "salary_currency": "USD",
       "salary_string": "$176k\u2013$244k",
-      "first_seen_at": "2026-03-05T00:00:00Z"
+      "first_seen_at": "2026-03-05T00:00:00Z",
+      "ai_maturity": "traditional",
+      "talent_density_rank": null,
+      "talent_density_score": null
     },
     {
       "title": "Senior Product Manager, Client Engagement",
@@ -7148,7 +7781,10 @@
       "salary_max": 225000,
       "salary_currency": "USD",
       "salary_string": "$185k\u2013$225k",
-      "first_seen_at": "2026-02-27T00:00:00Z"
+      "first_seen_at": "2026-02-27T00:00:00Z",
+      "ai_maturity": "traditional",
+      "talent_density_rank": null,
+      "talent_density_score": null
     },
     {
       "title": "Product Manager, Admin Platform",
@@ -7182,7 +7818,10 @@
       "salary_max": null,
       "salary_currency": null,
       "salary_string": null,
-      "first_seen_at": "2026-02-16T00:00:00Z"
+      "first_seen_at": "2026-02-16T00:00:00Z",
+      "ai_maturity": "adopter",
+      "talent_density_rank": null,
+      "talent_density_score": null
     },
     {
       "title": "Senior Product Manager, Acquisition (Provider)",
@@ -7216,7 +7855,10 @@
       "salary_max": 225000,
       "salary_currency": "USD",
       "salary_string": "$180k\u2013$225k",
-      "first_seen_at": "2026-01-27T00:00:00Z"
+      "first_seen_at": "2026-01-27T00:00:00Z",
+      "ai_maturity": "traditional",
+      "talent_density_rank": null,
+      "talent_density_score": null
     },
     {
       "title": "Staff Product Manager, New Verticals",
@@ -7250,7 +7892,10 @@
       "salary_max": 241500,
       "salary_currency": "USD",
       "salary_string": "$178.5k\u2013$241.5k",
-      "first_seen_at": "2026-01-27T00:00:00Z"
+      "first_seen_at": "2026-01-27T00:00:00Z",
+      "ai_maturity": "native",
+      "talent_density_rank": 16,
+      "talent_density_score": 0.741
     },
     {
       "title": "Senior Product Manager",
@@ -7284,7 +7929,10 @@
       "salary_max": null,
       "salary_currency": null,
       "salary_string": null,
-      "first_seen_at": "2026-01-26T00:00:00Z"
+      "first_seen_at": "2026-01-26T00:00:00Z",
+      "ai_maturity": "native",
+      "talent_density_rank": null,
+      "talent_density_score": null
     },
     {
       "title": "Product Manager, Payments",
@@ -7318,7 +7966,10 @@
       "salary_max": null,
       "salary_currency": null,
       "salary_string": null,
-      "first_seen_at": "2026-01-21T00:00:00Z"
+      "first_seen_at": "2026-01-21T00:00:00Z",
+      "ai_maturity": "traditional",
+      "talent_density_rank": 46,
+      "talent_density_score": 0.668
     },
     {
       "title": "Product Manager",
@@ -7352,7 +8003,10 @@
       "salary_max": 275000,
       "salary_currency": "USD",
       "salary_string": "$240k\u2013$275k",
-      "first_seen_at": "2026-01-15T00:00:00Z"
+      "first_seen_at": "2026-01-15T00:00:00Z",
+      "ai_maturity": "traditional",
+      "talent_density_rank": 46,
+      "talent_density_score": 0.668
     },
     {
       "title": "Product Manager, Video",
@@ -7386,7 +8040,10 @@
       "salary_max": 275000,
       "salary_currency": "USD",
       "salary_string": "$240k\u2013$275k",
-      "first_seen_at": "2026-01-15T00:00:00Z"
+      "first_seen_at": "2026-01-15T00:00:00Z",
+      "ai_maturity": "traditional",
+      "talent_density_rank": 46,
+      "talent_density_score": 0.668
     },
     {
       "title": "Sr Product manager, supply chain data products",
@@ -7420,7 +8077,10 @@
       "salary_max": null,
       "salary_currency": null,
       "salary_string": null,
-      "first_seen_at": "2025-12-15T00:00:00Z"
+      "first_seen_at": "2025-12-15T00:00:00Z",
+      "ai_maturity": "adopter",
+      "talent_density_rank": null,
+      "talent_density_score": null
     },
     {
       "title": "Innovation Product Manager",
@@ -7454,7 +8114,10 @@
       "salary_max": 241500,
       "salary_currency": "USD",
       "salary_string": "$178.5k\u2013$241.5k",
-      "first_seen_at": "2025-12-11T00:00:00Z"
+      "first_seen_at": "2025-12-11T00:00:00Z",
+      "ai_maturity": "native",
+      "talent_density_rank": 16,
+      "talent_density_score": 0.741
     },
     {
       "title": "Innovation Product Manager, EMEA",
@@ -7488,7 +8151,10 @@
       "salary_max": null,
       "salary_currency": null,
       "salary_string": null,
-      "first_seen_at": "2025-12-11T00:00:00Z"
+      "first_seen_at": "2025-12-11T00:00:00Z",
+      "ai_maturity": "native",
+      "talent_density_rank": 16,
+      "talent_density_score": 0.741
     },
     {
       "title": "Senior Product Manager II",
@@ -7522,7 +8188,10 @@
       "salary_max": null,
       "salary_currency": null,
       "salary_string": null,
-      "first_seen_at": "2025-12-09T00:00:00Z"
+      "first_seen_at": "2025-12-09T00:00:00Z",
+      "ai_maturity": "traditional",
+      "talent_density_rank": null,
+      "talent_density_score": null
     },
     {
       "title": "Staff Product Manager",
@@ -7556,7 +8225,10 @@
       "salary_max": 260000,
       "salary_currency": "USD",
       "salary_string": "$220k\u2013$260k",
-      "first_seen_at": "2025-10-08T00:00:00Z"
+      "first_seen_at": "2025-10-08T00:00:00Z",
+      "ai_maturity": "native",
+      "talent_density_rank": 16,
+      "talent_density_score": 0.741
     }
   ]
 }
