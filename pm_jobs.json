@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-05-10T04:04:34Z",
+  "fetched_at": "2026-05-10T08:02:18Z",
   "total": 215,
   "jobs": [
     {
@@ -3937,7 +3937,7 @@
       "company": "Robinhood",
       "ats": "Greenhouse",
       "location": "Menlo Park, CA; New York, NY",
-      "posted_at": "2026-05-01",
+      "posted_at": "2026-05-10",
       "apply_url": "https://boards.greenhouse.io/robinhood/jobs/7747728?t=gh_src=&gh_jid=7747728",
       "dept": "",
       "classification_reason": "canonical_title_yes",
@@ -3950,7 +3950,7 @@
       "ai_maturity": "traditional",
       "talent_density_rank": null,
       "talent_density_score": null,
-      "summary": "Own the Money Movement product area by defining and delivering payment rails, vendor integrations with data aggregators and payment processors, and payment infrastructure that powers customer deposits, withdrawals, and internal transfers. Partner with engineering, compliance, and operations to ensure systems are reliable, compliant, and reduce transaction failures while supporting Robinhood's scaling needs.",
+      "summary": "Own Robinhood's payment infrastructure and vendor integrations including ACH, wires, and payment processors. Define product requirements, partner with engineering and compliance, and optimize transaction success rates and processing times across deposits, withdrawals, and internal money movement.",
       "type": "Scaling",
       "archetype": "Platform",
       "technical": true,
@@ -3958,15 +3958,15 @@
       "work_arrangement": "hybrid",
       "requirements": [
         "3+ years product management experience",
-        "Familiarity with payment systems (ACH, wires, card networks) or vendor integrations",
-        "Experience using research, experimentation, and product analytics for decision-making",
-        "Ability to balance strategic and creative decision-making",
-        "Clear communication skills with engineering, operations, and external partners"
+        "Familiarity with payment systems: ACH, wires, card networks",
+        "Experience with vendor integrations and data aggregators",
+        "Research, experimentation, and product analytics expertise",
+        "Bachelor's degree or equivalent experience"
       ],
-      "salary_min": 140000,
+      "salary_min": 110000,
       "salary_max": 165000,
       "salary_currency": "USD",
-      "salary_string": "$140k\u2013$165k",
+      "salary_string": "$110k\u2013$165k",
       "first_seen_at": "2026-05-01T00:00:00Z"
     },
     {
@@ -4011,7 +4011,7 @@
       "company": "Robinhood",
       "ats": "Greenhouse",
       "location": "Menlo Park, CA; New York, NY",
-      "posted_at": "2026-05-01",
+      "posted_at": "2026-05-10",
       "apply_url": "https://boards.greenhouse.io/robinhood/jobs/7821803?t=gh_src=&gh_jid=7821803",
       "dept": "",
       "classification_reason": "canonical_title_yes",
@@ -4024,18 +4024,18 @@
       "ai_maturity": "traditional",
       "talent_density_rank": null,
       "talent_density_score": null,
-      "summary": "Own Robinhood's Cortex AI product roadmap, evolving it from a research assistant into an agentic financial planning system that reasons and acts on behalf of customers. Partner with engineering and compliance to ship consumer experiences that drive adoption while navigating financial services regulation.",
+      "summary": "Own the Cortex AI product roadmap end-to-end, evolving it from a conversational research assistant into an agentic system that reasons, plans, and acts on behalf of customers across investing, spending, and saving. Partner with engineering and compliance to ship consumer experiences and navigate the regulatory landscape for AI-powered financial planning.",
       "type": "0\u21921",
       "archetype": "AI/ML",
       "technical": true,
       "yoe": 7,
       "work_arrangement": "hybrid",
       "requirements": [
-        "7+ years consumer product management; 3+ years on AI/ML-powered products",
+        "7+ years consumer-facing PM experience with 3+ years on AI/ML products",
         "Deep fluency in LLM architectures, agentic systems, and retrieval-augmented generation",
-        "Experience building evaluation frameworks measuring AI quality, accuracy, safety at scale",
+        "Experience building evaluation frameworks measuring AI quality, accuracy, and safety at scale",
         "Track record shipping AI products in financial services or regulated industries",
-        "Familiarity with LLM evaluation, observability tooling, and agentic AI in production"
+        "Ability to translate rapid AI research advances into product roadmap decisions"
       ],
       "salary_min": 191000,
       "salary_max": 225000,
