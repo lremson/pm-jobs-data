@@ -1,6 +1,6 @@
 {
-  "fetched_at": "2026-05-10T12:00:27Z",
-  "total": 215,
+  "fetched_at": "2026-05-10T16:01:39Z",
+  "total": 214,
   "jobs": [
     {
       "title": "Senior Product Manager",
@@ -6910,43 +6910,6 @@
       "salary_currency": null,
       "salary_string": null,
       "first_seen_at": "2026-03-31T00:00:00Z"
-    },
-    {
-      "title": "Group Product Manager",
-      "company": "Gong",
-      "ats": "Greenhouse",
-      "location": "Tel Aviv",
-      "posted_at": "2026-03-26",
-      "apply_url": "https://job-boards.greenhouse.io/gongio/jobs/4629232006",
-      "dept": "",
-      "classification_reason": "canonical_title_yes",
-      "pm_classifier_version": "v5-tiered",
-      "industry": "",
-      "stage": "",
-      "size": "",
-      "hq": "",
-      "domain": "",
-      "ai_maturity": null,
-      "talent_density_rank": null,
-      "talent_density_score": null,
-      "summary": "Lead the Core Experiences group (Homepage, Mobile, Notifications) as the 'Front Door' of Gong's Revenue AI platform, managing senior PMs while building an AI-powered user cockpit that increases daily engagement and platform stickiness. Drive the end-to-end meeting journey strategy and ensure seamless discovery across Gong's expanding product ecosystem.",
-      "type": "Core",
-      "archetype": "Enterprise",
-      "technical": false,
-      "yoe": 7,
-      "work_arrangement": "hybrid",
-      "requirements": [
-        "7+ years SaaS product experience with 3+ years managing product teams",
-        "Proven ability to lead senior PMs and drive strategic product direction",
-        "Strong UX expertise with experience crafting seamless user journeys and scalable patterns",
-        "Mobile strategist with track record translating complex B2B workflows into mobile experiences",
-        "Data-driven product development mindset with strong English communication proficiency"
-      ],
-      "salary_min": null,
-      "salary_max": null,
-      "salary_currency": null,
-      "salary_string": null,
-      "first_seen_at": "2026-03-26T00:00:00Z"
     },
     {
       "title": "AI Product Manager",
