@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-05-11T04:04:03Z",
+  "fetched_at": "2026-05-11T08:01:57Z",
   "total": 71,
   "jobs": [
     {
@@ -992,9 +992,9 @@
       "title": "Product Manager, Driver Experience",
       "company": "Lyft",
       "ats": "Greenhouse",
-      "location": "New York, NY",
+      "location": "Toronto, Canada",
       "posted_at": "2026-05-05",
-      "apply_url": "https://app.careerpuck.com/job-board/lyft/job/8525086002?gh_jid=8525086002",
+      "apply_url": "https://app.careerpuck.com/job-board/lyft/job/8514395002?gh_jid=8514395002",
       "dept": "",
       "classification_reason": "canonical_title_yes",
       "pm_classifier_version": "v5-tiered",
@@ -1006,23 +1006,23 @@
       "ai_maturity": "traditional",
       "talent_density_rank": null,
       "talent_density_score": null,
-      "summary": "Own the Driver Experience product area at Lyft, building and evolving the platform that empowers drivers to perform their best. You'll identify and solve driver pain points through streamlined interactions, reduced friction, and fair systems while balancing a two-sided marketplace.",
+      "summary": "Own the product vision and roadmap for Lyft's driver-facing platform, identifying and solving key pain points through streamlined interactions and fair systems. Lead a cross-functional team of engineers, designers, and data scientists to deliver experiences that empower drivers and balance a two-sided marketplace.",
       "type": "Core",
       "archetype": "Consumer",
       "technical": false,
       "yoe": 3,
       "work_arrangement": "hybrid",
       "requirements": [
-        "3+ years product management, product design, or equivalent consultant experience",
-        "Significant time leading consumer-facing products",
-        "Strong user empathy and customer discovery expertise",
-        "Experience influencing decisions across org lines with senior leadership",
-        "Ability to balance user experience with two-sided marketplace needs"
+        "3+ years product management, design, or equivalent consultant experience",
+        "Significant experience leading consumer-facing products",
+        "Strong user empathy with demonstrated customer discovery and product development experience",
+        "Ability to balance two-sided marketplace needs with flawless user experience",
+        "Experience building alignment and influencing decisions across organizational lines"
       ],
-      "salary_min": 128000,
-      "salary_max": 160000,
+      "salary_min": 108000,
+      "salary_max": 135000,
       "salary_currency": "USD",
-      "salary_string": "$128k\u2013$160k",
+      "salary_string": "$108k\u2013$135k",
       "first_seen_at": "2026-05-05T00:00:00Z"
     },
     {
