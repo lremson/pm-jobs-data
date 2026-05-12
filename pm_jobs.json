@@ -1,7 +1,31 @@
 {
-  "fetched_at": "2026-05-12T16:01:24Z",
-  "total": 70,
+  "fetched_at": "2026-05-12T20:02:04Z",
+  "total": 71,
   "jobs": [
+    {
+      "title": "Technical Product Manager, Security Tooling",
+      "company": "Anduril",
+      "ats": "Greenhouse",
+      "location": "Costa Mesa, California, United States",
+      "posted_at": "2026-05-12",
+      "apply_url": "https://boards.greenhouse.io/andurilindustries/jobs/5132802007?gh_jid=5132802007",
+      "dept": "",
+      "classification_reason": "canonical_title_yes",
+      "pm_classifier_version": "v5-tiered",
+      "industry": "Defense Tech",
+      "stage": "Late",
+      "size": "1000-5000",
+      "hq": "Costa Mesa, CA",
+      "domain": "anduril.com",
+      "ai_maturity": "native",
+      "talent_density_rank": null,
+      "talent_density_score": null,
+      "salary_min": 146000,
+      "salary_max": 194000,
+      "salary_currency": "USD",
+      "salary_string": "$146k\u2013$194k",
+      "first_seen_at": "2026-05-12T20:02:42Z"
+    },
     {
       "title": "Staff Product Manager, Dashboard",
       "company": "Stripe",
