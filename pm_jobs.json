@@ -1,6 +1,6 @@
 {
-  "fetched_at": "2026-05-13T04:03:09Z",
-  "total": 222,
+  "fetched_at": "2026-05-13T08:02:32Z",
+  "total": 221,
   "jobs": [
     {
       "title": "Product Manager, AI Quality",
@@ -1360,37 +1360,6 @@
       "salary_currency": "USD",
       "salary_string": "$155k\u2013$215k",
       "first_seen_at": "2026-05-11T00:00:00Z"
-    },
-    {
-      "title": "Product Manager - Payments",
-      "company": "Adyen",
-      "ats": "Greenhouse",
-      "location": "Singapore",
-      "posted_at": "2026-05-10",
-      "apply_url": "https://job-boards.greenhouse.io/adyen/jobs/7894955",
-      "dept": "",
-      "classification_reason": "canonical_title_yes",
-      "pm_classifier_version": "v5-tiered",
-      "industry": "Fintech",
-      "stage": "Public",
-      "size": "5000+",
-      "hq": "Amsterdam, Netherlands",
-      "domain": "adyen.com",
-      "ai_maturity": "traditional",
-      "talent_density_rank": null,
-      "talent_density_score": null,
-      "summary": "You'll own Adyen's core payments engine for APAC, identifying and shipping new payment features while optimizing payment performance and adoption across the platform. You're accountable end-to-end for merchant outcomes\u2014revenue, cost savings, and activation metrics\u2014working with engineering, partnerships, and commercial teams globally.",
-      "type": "Core",
-      "archetype": "Monetization",
-      "technical": false,
-      "yoe": 5,
-      "work_arrangement": null,
-      "requirements": [],
-      "salary_min": null,
-      "salary_max": null,
-      "salary_currency": null,
-      "salary_string": null,
-      "first_seen_at": "2026-05-10T00:00:00Z"
     },
     {
       "title": "Director of Product Communications",
