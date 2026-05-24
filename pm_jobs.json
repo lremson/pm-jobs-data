@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-05-24T00:01:33Z",
+  "fetched_at": "2026-05-24T04:04:00Z",
   "total": 205,
   "jobs": [
     {
@@ -4612,7 +4612,7 @@
       "primary_city": "Livingston",
       "primary_state": "NJ",
       "region": "US",
-      "posted_at": "2026-05-15",
+      "posted_at": "2026-05-23",
       "apply_url": "https://coreweave.com/careers/job?4679718006&board=coreweave&gh_jid=4679718006",
       "dept": "",
       "classification_reason": "canonical_title_yes",
@@ -4626,17 +4626,17 @@
       "talent_density_rank": null,
       "talent_density_score": null,
       "company_description": "CoreWeave is a specialized cloud provider offering high-performance GPU compute infrastructure for AI and ML workloads.",
-      "summary": "Own the product vision and roadmap for CoreWeave's Finance systems spanning GL, AP/AR, Revenue, FP&A, Tax, and Treasury across NetSuite, SAP, Coupa, and Anaplan. Partner with Finance stakeholders and Engineering to deliver scalable, AI-enabled solutions that reduce close cycles, improve automation rates, and maintain SOX compliance.",
+      "summary": "Own the product vision and multi-quarter roadmap for CoreWeave's Finance systems portfolio (NetSuite, SAP, Coupa, Anaplan, RevPro) across GL, AP/AR, Revenue, Tax, Treasury, and FP&A. Partner with Finance stakeholders and Engineering to deliver AI-enabled automation, SOX-compliant controls, and operational efficiency improvements that reduce close cycles and improve finance productivity.",
       "type": "Core",
       "archetype": "Enterprise",
       "technical": true,
       "yoe": 5,
       "requirements": [
         "5+ years product management or systems ownership delivering Finance systems in agile environments",
-        "3+ years direct Finance domain experience in Accounting, FP&A, Tax, Treasury, or Revenue",
-        "Hands-on experience configuring NetSuite and SAP Finance modules including GL, AP/AR, Fixed Assets",
-        "Experience with Finance platforms: Coupa, Vertex, Anaplan, RevPro, or Kyriba",
-        "SOX-compliant environment experience with audit, compliance, and controls requirements"
+        "3+ years direct Finance domain experience (Accounting, FP&A, Tax, Treasury, Revenue)",
+        "Hands-on NetSuite and SAP Finance module configuration/implementation experience",
+        "Experience with Finance platforms (Coupa, Vertex, Anaplan, RevPro, Kybernia, or similar)",
+        "Proven cross-functional Finance systems project leadership from discovery through adoption"
       ],
       "salary_min": 139000,
       "salary_max": 204000,
