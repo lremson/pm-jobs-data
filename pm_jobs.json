@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-05-28T04:00:41Z",
+  "fetched_at": "2026-05-28T08:01:09Z",
   "total": 195,
   "jobs": [
     {
@@ -879,14 +879,14 @@
       "title": "Mission Operations Product Manager, Group 5 Mission Autonomy",
       "company": "Anduril",
       "ats": "Greenhouse",
-      "location": "Washington, District of Columbia, United States, Costa Mesa, California, United States",
-      "location_display": "Washington, DC",
+      "location": "Costa Mesa, California, United States, Washington, District of Columbia, United States",
+      "location_display": "Costa Mesa, CA",
       "work_arrangement": "hybrid",
-      "primary_city": "Washington",
-      "primary_state": "DC",
+      "primary_city": "Costa Mesa",
+      "primary_state": "CA",
       "region": "US",
       "posted_at": "2026-05-26",
-      "apply_url": "https://boards.greenhouse.io/andurilindustries/jobs/5141963007?gh_jid=5141963007",
+      "apply_url": "https://boards.greenhouse.io/andurilindustries/jobs/5137720007?gh_jid=5137720007",
       "dept": "",
       "classification_reason": "canonical_title_yes",
       "pm_classifier_version": "v5-tiered",
@@ -899,17 +899,17 @@
       "talent_density_rank": null,
       "talent_density_score": null,
       "company_description": "Anduril builds defense technology including autonomous systems, sensors, and AI-powered software for national security missions.",
-      "summary": "Own the Mission Autonomy product for Group 5 autonomous air vehicles, driving requirements, roadmap, and fielding from concept through deployment. Serve as the product voice with military customers, collaborating with engineering and business development to translate operational needs into autonomy behaviors and system capabilities.",
+      "summary": "Own mission autonomy product development for Group 5 autonomous air vehicles, spanning requirements definition through fielding. Drive cross-functional collaboration between engineering, test, and business teams to deliver autonomy behaviors and supporting products that meet military operational objectives.",
       "type": "0\u21921",
-      "archetype": "Enterprise",
+      "archetype": "AI/ML",
       "technical": true,
       "yoe": null,
       "requirements": [
-        "Operational experience as USAF/USN/USMC pilot or CSO/NFO on 4th/5th gen fighter/bomber/RPA",
-        "Active US Top Secret clearance and Special Access Programs experience",
-        "System design and development leadership from concept through customer delivery",
-        "Strong analytical skills interpreting test data and diagnosing system behaviors",
-        "Ability to leverage operational experience in technical decision-making without clear requirements"
+        "Operational pilot/CSO/NFO experience with USAF/USN/USMC 4th or 5th generation fighter/bomber or RPA aircraft",
+        "Active U.S. Top Secret security clearance and Special Access Programs experience required",
+        "Strong analytical skills to interpret test data, diagnose system behaviors, and recommend improvements",
+        "Experience leading system design and development from concept through customer delivery",
+        "Ability to leverage operational experience and technical knowledge to make decisions in absence of clear requirements"
       ],
       "salary_min": 166000,
       "salary_max": 220000,
@@ -917,7 +917,7 @@
       "salary_string": "$166k\u2013$220k",
       "visa_sponsorship": null,
       "first_seen_at": "2026-05-26T00:00:00Z",
-      "job_id": "d0a4a9c3-7256-43a7-8e62-a29b29dbb35b"
+      "job_id": "8c08f45f-a35e-45bc-9c28-968227da4819"
     },
     {
       "title": "Product Manager, RevTech Engineering",
@@ -1664,14 +1664,14 @@
       "title": "Product Manager, Ecosystem Risk",
       "company": "Stripe",
       "ats": "Greenhouse",
-      "location": "Dublin, London",
-      "location_display": "Dublin",
+      "location": "London, Dublin",
+      "location_display": "London",
       "work_arrangement": null,
-      "primary_city": "Dublin",
+      "primary_city": "London",
       "primary_state": null,
       "region": "Europe",
       "posted_at": "2026-05-20",
-      "apply_url": "https://stripe.com/jobs/search?gh_jid=7943244",
+      "apply_url": "https://stripe.com/jobs/search?gh_jid=7947422",
       "dept": "",
       "classification_reason": "canonical_title_yes",
       "pm_classifier_version": "v5-tiered",
@@ -1684,17 +1684,17 @@
       "talent_density_rank": null,
       "talent_density_score": null,
       "company_description": "Stripe builds the financial infrastructure that powers internet businesses \u2014 payments, billing, fraud prevention, and treasury for companies from startups to Fortune 500s.",
-      "summary": "Own the multi-year roadmap for AI-powered financial crime controls at Stripe, building detection, investigation, and UI/API infrastructure that protects merchants and consumers while enabling high-risk businesses to operate on the platform.",
+      "summary": "Own the multi-year vision and roadmap for AI-powered financial crime controls at Stripe, spanning detection, investigation, and merchant-facing tools. Partner across engineering, data science, and operations to build infrastructure that protects consumers and merchants while enabling growth in regulated industries.",
       "type": "Core",
       "archetype": "Trust & Safety",
       "technical": true,
       "yoe": 7,
       "requirements": [
-        "7+ years in Product Management",
-        "Proven experience building infrastructure and user experiences at scale",
-        "Strong product sense with deep empathy for user needs",
+        "7+ years Product Management experience",
+        "Proven experience building infrastructure and UX at scale",
+        "Deep product sense with strong user empathy",
         "Operate effectively in highly cross-functional environments",
-        "Experience in financial crimes or fraud prevention within financial services (preferred)"
+        "Experience in financial crimes or fraud prevention (preferred)"
       ],
       "salary_min": 102400,
       "salary_max": 153600,
@@ -1702,7 +1702,7 @@
       "salary_string": "\u20ac102k\u2013\u20ac153k",
       "visa_sponsorship": null,
       "first_seen_at": "2026-05-20T00:00:00Z",
-      "job_id": "7f5a3838-2baa-45c0-a4f5-78ca067e4a74"
+      "job_id": "eef50f8f-9196-4e89-ad42-1b7af365e2d6"
     },
     {
       "title": "Product Manager, Growth AI Outreach Motion ",
