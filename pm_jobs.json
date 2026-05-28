@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-05-28T00:03:03Z",
+  "fetched_at": "2026-05-28T04:00:41Z",
   "total": 195,
   "jobs": [
     {
@@ -879,14 +879,14 @@
       "title": "Mission Operations Product Manager, Group 5 Mission Autonomy",
       "company": "Anduril",
       "ats": "Greenhouse",
-      "location": "Costa Mesa, California, United States, Washington, District of Columbia, United States",
-      "location_display": "Costa Mesa, CA",
+      "location": "Washington, District of Columbia, United States, Costa Mesa, California, United States",
+      "location_display": "Washington, DC",
       "work_arrangement": "hybrid",
-      "primary_city": "Costa Mesa",
-      "primary_state": "CA",
+      "primary_city": "Washington",
+      "primary_state": "DC",
       "region": "US",
       "posted_at": "2026-05-26",
-      "apply_url": "https://boards.greenhouse.io/andurilindustries/jobs/5137720007?gh_jid=5137720007",
+      "apply_url": "https://boards.greenhouse.io/andurilindustries/jobs/5141963007?gh_jid=5141963007",
       "dept": "",
       "classification_reason": "canonical_title_yes",
       "pm_classifier_version": "v5-tiered",
@@ -899,17 +899,17 @@
       "talent_density_rank": null,
       "talent_density_score": null,
       "company_description": "Anduril builds defense technology including autonomous systems, sensors, and AI-powered software for national security missions.",
-      "summary": "Own the mission autonomy product for Group 5 autonomous aircraft, driving requirements, roadmaps, and test validation from concept through customer fielding. Collaborate with engineering and business development to translate operational needs into autonomous behaviors and system capabilities.",
+      "summary": "Own the Mission Autonomy product for Group 5 autonomous air vehicles, driving requirements, roadmap, and fielding from concept through deployment. Serve as the product voice with military customers, collaborating with engineering and business development to translate operational needs into autonomy behaviors and system capabilities.",
       "type": "0\u21921",
-      "archetype": "AI/ML",
+      "archetype": "Enterprise",
       "technical": true,
       "yoe": null,
       "requirements": [
-        "Operational pilot or CSO/NFO experience on USAF/USN/USMC 4th-5th generation fighter/bomber/RPA aircraft",
-        "Active Top Secret clearance and Special Access Program experience",
-        "Experience leading system design and development from concept through customer delivery",
-        "Strong analytical skills to interpret test data and diagnose autonomous system behaviors",
-        "Ability to leverage operational experience to make design decisions without clear customer requirements"
+        "Operational experience as USAF/USN/USMC pilot or CSO/NFO on 4th/5th gen fighter/bomber/RPA",
+        "Active US Top Secret clearance and Special Access Programs experience",
+        "System design and development leadership from concept through customer delivery",
+        "Strong analytical skills interpreting test data and diagnosing system behaviors",
+        "Ability to leverage operational experience in technical decision-making without clear requirements"
       ],
       "salary_min": 166000,
       "salary_max": 220000,
@@ -917,7 +917,7 @@
       "salary_string": "$166k\u2013$220k",
       "visa_sponsorship": null,
       "first_seen_at": "2026-05-26T00:00:00Z",
-      "job_id": "8c08f45f-a35e-45bc-9c28-968227da4819"
+      "job_id": "d0a4a9c3-7256-43a7-8e62-a29b29dbb35b"
     },
     {
       "title": "Product Manager, RevTech Engineering",
@@ -3990,7 +3990,7 @@
       "primary_state": "CA",
       "region": "US",
       "posted_at": "2026-05-26",
-      "apply_url": "https://job-boards.greenhouse.io/zscaler/jobs/5123108007",
+      "apply_url": "https://job-boards.greenhouse.io/zscaler/jobs/5093654007",
       "dept": "",
       "classification_reason": "canonical_title_yes",
       "pm_classifier_version": "v5-tiered",
@@ -4003,25 +4003,25 @@
       "talent_density_rank": null,
       "talent_density_score": null,
       "company_description": "Zscaler is a cloud-native zero trust security platform providing secure internet and private app access for enterprises.",
-      "summary": "Own the strategy and execution of a new API-first provisioning automation and metering service that will power Zscaler's customer onboarding and go-to-market motion. You'll lead cross-functional teams to build a hyperscaler-grade, declarative platform backbone with observability and self-service capabilities that unlock massive scale across the product portfolio.",
-      "type": "0\u21921",
+      "summary": "Principal PM will own the reliability and scalability roadmap for Zscaler's ZIA and ZPA cloud platforms, driving cloud operations initiatives to scale beyond 1 trillion transactions while maintaining extreme stability and leading customer engagements on cloud resilience.",
+      "type": "Scaling",
       "archetype": "Platform",
       "technical": true,
-      "yoe": 8,
+      "yoe": 12,
       "requirements": [
-        "8+ years product management experience with deep observability and automation expertise",
-        "Demonstrated deep expertise in automation, APIs, and market knowledge in this space",
-        "Track record building effective cross-functional relationships specifically with engineering teams",
-        "Direct customer engagement experience on security feature requirements and feedback",
-        "Bachelor's or Master's degree in Computer Science, Engineering, or related field"
+        "12+ years in Cloud Engineering, SRE, DevOps, or Technical Product Management",
+        "Deep technical expertise in network security, proxies, firewalls, TLS, PKI, HTTP/S",
+        "Proven experience with cloud-native services at hyper-scalers or major SaaS",
+        "Comprehensive understanding of cloud architecture, clustering, and observability patterns",
+        "Bachelor's degree in technical field or equivalent professional experience"
       ],
       "salary_min": 164500,
       "salary_max": 235000,
       "salary_currency": "USD",
-      "salary_string": "$164.5k\u2013$235k",
+      "salary_string": "$164k\u2013$235k",
       "visa_sponsorship": null,
       "first_seen_at": "2026-05-12T00:00:00Z",
-      "job_id": "5c0e497c-b638-4b71-ad14-32666e9bd6bf"
+      "job_id": "634920d3-e4d6-4d13-9ebb-bf71f623c2c2"
     },
     {
       "title": "Senior Product Manager",
