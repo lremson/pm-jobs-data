@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-05-28T08:01:09Z",
+  "fetched_at": "2026-05-28T12:02:26Z",
   "total": 195,
   "jobs": [
     {
@@ -1664,14 +1664,14 @@
       "title": "Product Manager, Ecosystem Risk",
       "company": "Stripe",
       "ats": "Greenhouse",
-      "location": "London, Dublin",
-      "location_display": "London",
+      "location": "Dublin, London",
+      "location_display": "Dublin",
       "work_arrangement": null,
-      "primary_city": "London",
+      "primary_city": "Dublin",
       "primary_state": null,
       "region": "Europe",
       "posted_at": "2026-05-20",
-      "apply_url": "https://stripe.com/jobs/search?gh_jid=7947422",
+      "apply_url": "https://stripe.com/jobs/search?gh_jid=7943244",
       "dept": "",
       "classification_reason": "canonical_title_yes",
       "pm_classifier_version": "v5-tiered",
@@ -1684,17 +1684,17 @@
       "talent_density_rank": null,
       "talent_density_score": null,
       "company_description": "Stripe builds the financial infrastructure that powers internet businesses \u2014 payments, billing, fraud prevention, and treasury for companies from startups to Fortune 500s.",
-      "summary": "Own the multi-year vision and roadmap for AI-powered financial crime controls at Stripe, spanning detection, investigation, and merchant-facing tools. Partner across engineering, data science, and operations to build infrastructure that protects consumers and merchants while enabling growth in regulated industries.",
+      "summary": "Own the multi-year vision and roadmap for AI-powered financial crimes controls at Stripe, spanning detection, investigation, and merchant-facing surfaces. Partner across engineering, data science, and operations to build infrastructure protecting consumers and merchants while enabling growth in regulated industries.",
       "type": "Core",
       "archetype": "Trust & Safety",
       "technical": true,
       "yoe": 7,
       "requirements": [
         "7+ years Product Management experience",
-        "Proven experience building infrastructure and UX at scale",
-        "Deep product sense with strong user empathy",
-        "Operate effectively in highly cross-functional environments",
-        "Experience in financial crimes or fraud prevention (preferred)"
+        "Proven experience building infrastructure and user experiences at scale",
+        "Effective operation in highly cross-functional environments",
+        "Strong analytical and decision-making skills with rigor",
+        "Experience in financial crimes or fraud prevention preferred"
       ],
       "salary_min": 102400,
       "salary_max": 153600,
@@ -1702,7 +1702,7 @@
       "salary_string": "\u20ac102k\u2013\u20ac153k",
       "visa_sponsorship": null,
       "first_seen_at": "2026-05-20T00:00:00Z",
-      "job_id": "eef50f8f-9196-4e89-ad42-1b7af365e2d6"
+      "job_id": "7f5a3838-2baa-45c0-a4f5-78ca067e4a74"
     },
     {
       "title": "Product Manager, Growth AI Outreach Motion ",
@@ -2286,7 +2286,7 @@
       "primary_city": "Toronto",
       "primary_state": null,
       "region": "Canada",
-      "posted_at": "2026-05-27",
+      "posted_at": "2026-05-28",
       "apply_url": "https://app.careerpuck.com/job-board/lyft/job/8550340002?gh_jid=8550340002",
       "dept": "",
       "classification_reason": "canonical_title_yes",
@@ -2300,17 +2300,17 @@
       "talent_density_rank": null,
       "talent_density_score": null,
       "company_description": "Lyft is a ridesharing platform offering rides, bikes, and scooters across North America with a focus on driver experience.",
-      "summary": "Own the end-to-end claims product experience at Lyft, from accident reporting through driver recovery, managing a multi-billion dollar P&L and partnering with insurance carriers. Drive ML/AI integration into claims processing and shape Lyft's long-term insurance program strategy with industry-leading partners.",
+      "summary": "Own the end-to-end claims product experience at Lyft, including accident reporting, internal record updates, insurance partner integrations, and driver recovery workflows. Drive multi-billion dollar P&L impact by leveraging ML/AI/LLM tools on claims and telematics data to improve accuracy and speed while shaping long-term insurance program strategy with industry partners.",
       "type": "Core",
       "archetype": "Trust & Safety",
       "technical": true,
       "yoe": 4,
       "requirements": [
         "Minimum 4 years product management or relevant product experience",
-        "Data-driven with ability to work large datasets and technical internal tools",
-        "Cross-functional collaboration experience bridging multiple teams",
-        "Experience defining and analyzing product success metrics",
-        "Post-launch optimization and testing strategy experience"
+        "Data-driven mindset comfortable with large datasets and technical tools",
+        "Experience leading post-launch optimizations and testing strategies",
+        "Insurance products or close insurance partner collaboration experience (bonus)",
+        "B2C software or internal tools in complex ecosystems (bonus)"
       ],
       "salary_min": null,
       "salary_max": null,
